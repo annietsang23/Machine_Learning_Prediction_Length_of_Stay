@@ -9,12 +9,16 @@ The project achieves this by adopting machine learning methodologies with data e
 
 2. Before running the web application, make sure your system has met the **prerequisites listed below.**
 
-3. Open terminal and run the following:<br/>
-`python3 [directory of the init.py folder]/init.py`
+3. Open terminal and run the following:
+```
+python3 [directory of the init.py folder]/init.py
+```
 
-4. The following message will appear, indicating that the web application has been loaded successfully and is now running on local server.<br/> 
-`app:  <dash.dash.Dash object at 0x104962cf8>`<br/>
-`Running on http://127.0.0.1:8050/`
+4. The following message will appear, indicating that the web application has been loaded successfully and is now running on local server:
+```
+app:  <dash.dash.Dash object at 0x104962cf8>
+Running on http://127.0.0.1:8050/
+```
 
 If the web browser does not start automatically, open and paste the address `http://127...` into web browser and open the web application.
 
@@ -26,17 +30,17 @@ This web application run with the Dash library developed by Plotly. Dash's insta
 It is recommended that **Python3 or above** shall be used to ensure compatibility.
 
 3. Python Packages
-The following Python packages need to be installed via the command `pip install *`, where * is  replaced bythe name of python package.
+The following Python packages need to be installed via the command `pip install *`, where * is replaced by the name of python package.
 
-a. numpy<br/>
-b. pandas<br/>
-c. seaborn<br/>
-d. matplotlib<br/>
-e. scikit-learn<br/>
-f. jenkspy<br/>
-g. xgboost<br/>
-h. scipy<br/>
-i. plotly<br/>
+  a. numpy<br/>
+  b. pandas<br/>
+  c. seaborn<br/>
+  d. matplotlib<br/>
+  e. scikit-learn<br/>
+  f. jenkspy<br/>
+  g. xgboost<br/>
+  h. scipy<br/>
+  i. plotly<br/>
 
 
 
