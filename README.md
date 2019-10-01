@@ -1,5 +1,5 @@
-# Machine_Learning_Prediction_Length_of_Stay
-Source codes and documentation of my dissertation - Predict Length of Stay of Patients Using Machine Learning
+# Prediction of Length of Stay of Patients using Machine Learning
+Source codes and documentation of my dissertation - Predict Length of Stay of Patients with 'Digital Ward'
 
 This project aims to develop a mechanism for predicting length of stay of patients in the hospita, so as to facilitate operation management for Birmingham & Solihull Mental Health NHS Foundation Trust. The project is divided into three phases. Phase 1 and 2 involve developing prediction models, while Phase 3 involves developing a web application to visualise the data and deploy the model.
 The project achieves this by adopting machine learning methodologies with data extracted from the inpatient database maintained by client as part of the ‘Digital Ward’ Project. The project begins with research into literatures and methodologies for regression analysis. The methodologies are incorporated into the model development process, which involves data pre-processing, features engineering, cross validation and testing. Finally, the model is deployed to a web application developed with Dash.
