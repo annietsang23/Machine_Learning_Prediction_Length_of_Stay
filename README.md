@@ -23,13 +23,13 @@ Running on http://127.0.0.1:8050/
 If the web browser does not start automatically, open and paste the address `http://127...` into web browser and open the web application.
 
 ## System Prerequisites
-1. Dash
+### Dash
 This web application runs with the Dash library developed by Plotly. Dash's installation instruction and documentation can be accessed [here](https://dash.plot.ly/installation)
 
-2. Python version
+### Python version
 It is recommended that **Python3 or above** shall be used to ensure compatibility.
 
-3. Python Packages
+### Python packages
 The following Python packages need to be installed via the command `pip install *`, where * is replaced by the name of python package.
 
 - numpy<br/>
