@@ -1,0 +1,3501 @@
+FOD,Age,Gender,HospitalNumber,AdvancedDecision,SexualOrientation
+0,92,F,1,NULL,NULL
+0,74,M,2,NULL,Heterosexual  / Straight
+0,65,F,3,NULL,Not Known / Not recorded
+0,68,M,4,2,Heterosexual  / Straight
+0,77,F,5,NULL,Heterosexual  / Straight
+0,67,M,6,NULL,NULL
+0,59,F,7,NULL,NULL
+0,74,M,8,NULL,Asked but does not know / not sure
+0,70,F,9,2,NULL
+0,76,F,10,NULL,Not Known / Not recorded
+0,68,M,11,2,Heterosexual  / Straight
+0,70,F,12,2,Heterosexual  / Straight
+0,66,M,13,NULL,Prefer not to say
+0,75,M,14,2,Heterosexual  / Straight
+0,66,F,15,NULL,Heterosexual  / Straight
+0,60,M,16,NULL,Not Known / Not recorded
+1,73,F,17,2,Heterosexual  / Straight
+0,77,F,18,NULL,Heterosexual  / Straight
+0,63,M,19,2,Heterosexual  / Straight
+0,77,M,20,NULL,Heterosexual  / Straight
+0,81,F,21,NULL,NULL
+0,70,F,22,2,Heterosexual  / Straight
+0,87,F,23,NULL,Heterosexual  / Straight
+0,71,M,24,NULL,NULL
+0,89,F,25,NULL,NULL
+0,72,M,26,NULL,NULL
+0,72,M,27,NULL,NULL
+0,78,M,28,NULL,Prefer not to say
+0,69,F,29,2,Heterosexual  / Straight
+0,75,M,30,2,Bisexual
+0,84,F,31,NULL,Heterosexual  / Straight
+0,48,M,32,2,Prefer not to say
+0,77,F,33,2,Not Known / Not recorded
+1,75,M,34,NULL,Not Known / Not recorded
+0,85,M,35,2,Heterosexual  / Straight
+0,64,M,36,2,Heterosexual  / Straight
+0,67,M,37,NULL,NULL
+0,64,F,38,NULL,NULL
+0,78,M,39,2,Heterosexual  / Straight
+0,65,M,40,NULL,NULL
+0,69,M,41,2,NULL
+0,72,F,42,2,Not Known / Not recorded
+0,70,M,43,NULL,NULL
+0,64,F,44,NULL,Heterosexual  / Straight
+0,84,F,45,NULL,Not Known
+0,86,F,46,NULL,Not Known / Not recorded
+0,66,F,47,NULL,Heterosexual  / Straight
+0,78,M,48,2,Not Known
+0,69,M,49,2,Not Known / Not recorded
+0,84,F,50,NULL,Heterosexual  / Straight
+0,76,F,51,NULL,NULL
+0,79,M,52,2,Heterosexual  / Straight
+0,71,M,53,2,Heterosexual  / Straight
+0,67,F,54,2,Heterosexual  / Straight
+0,67,M,55,2,Heterosexual  / Straight
+1,79,M,56,NULL,NULL
+0,82,F,57,NULL,Heterosexual  / Straight
+0,77,F,58,NULL,Heterosexual  / Straight
+0,72,M,59,NULL,Heterosexual  / Straight
+0,72,M,60,NULL,NULL
+0,74,F,61,2,Heterosexual  / Straight
+0,78,F,62,NULL,Not Known / Not recorded
+0,59,F,63,2,Heterosexual  / Straight
+0,78,F,64,NULL,NULL
+0,81,M,65,2,Heterosexual  / Straight
+0,77,M,66,2,Heterosexual  / Straight
+0,86,F,67,2,Heterosexual  / Straight
+0,57,M,68,NULL,Not Known / Not recorded
+0,69,F,69,2,Heterosexual  / Straight
+0,81,M,70,2,Not Known / Not recorded
+0,70,M,71,2,Heterosexual  / Straight
+0,62,F,72,NULL,Heterosexual  / Straight
+0,76,F,73,2,Heterosexual  / Straight
+0,78,F,74,NULL,Not Known
+0,81,F,75,2,Heterosexual  / Straight
+0,65,M,76,NULL,NULL
+0,78,M,77,NULL,NULL
+0,69,F,78,NULL,Heterosexual  / Straight
+0,81,F,79,NULL,Heterosexual  / Straight
+0,62,M,80,NULL,Not Known / Not recorded
+0,78,F,81,2,Heterosexual  / Straight
+0,75,M,82,NULL,Not Known
+0,75,M,83,NULL,NULL
+0,69,M,84,2,Heterosexual  / Straight
+0,63,F,85,NULL,Heterosexual  / Straight
+0,77,M,86,NULL,Heterosexual  / Straight
+0,76,F,87,NULL,Heterosexual  / Straight
+0,68,M,88,NULL,Bisexual
+0,71,F,89,NULL,NULL
+0,72,M,90,NULL,NULL
+0,65,M,91,NULL,NULL
+0,73,F,92,2,Heterosexual  / Straight
+1,79,F,93,2,Heterosexual  / Straight
+0,71,F,94,2,Heterosexual  / Straight
+0,86,M,95,2,Heterosexual  / Straight
+0,77,F,96,NULL,Heterosexual  / Straight
+0,73,F,97,2,Heterosexual  / Straight
+0,70,M,98,NULL,Prefer not to say
+0,69,M,99,2,Heterosexual  / Straight
+0,57,M,100,NULL,NULL
+0,92,F,1,NULL,NULL
+0,75,M,2,NULL,Heterosexual  / Straight
+0,65,F,3,NULL,Not Known / Not recorded
+0,68,M,4,2,Heterosexual  / Straight
+0,78,F,5,NULL,Heterosexual  / Straight
+0,67,M,6,NULL,NULL
+0,59,F,7,NULL,NULL
+0,74,M,8,NULL,Asked but does not know / not sure
+0,70,F,9,2,NULL
+0,76,F,10,NULL,Not Known / Not recorded
+0,68,M,11,2,Heterosexual  / Straight
+0,70,F,12,2,Heterosexual  / Straight
+0,66,M,13,NULL,Prefer not to say
+0,75,M,14,2,Heterosexual  / Straight
+0,66,F,15,NULL,Heterosexual  / Straight
+0,60,M,16,NULL,Not Known / Not recorded
+1,73,F,17,2,Heterosexual  / Straight
+0,77,F,18,NULL,Heterosexual  / Straight
+0,63,M,19,2,Heterosexual  / Straight
+0,77,M,20,NULL,Heterosexual  / Straight
+0,81,F,21,NULL,NULL
+0,70,F,22,2,Heterosexual  / Straight
+0,87,F,23,NULL,Heterosexual  / Straight
+0,71,M,24,NULL,NULL
+0,89,F,25,NULL,NULL
+0,72,M,26,NULL,NULL
+0,72,M,27,NULL,NULL
+0,78,M,28,NULL,Prefer not to say
+0,69,F,29,2,Heterosexual  / Straight
+0,75,M,30,2,Bisexual
+0,84,F,31,NULL,Heterosexual  / Straight
+0,48,M,32,2,Prefer not to say
+0,77,F,33,2,Not Known / Not recorded
+1,75,M,34,NULL,Not Known / Not recorded
+0,85,M,35,2,Heterosexual  / Straight
+0,65,M,36,2,Heterosexual  / Straight
+0,67,M,37,NULL,NULL
+0,64,F,38,NULL,NULL
+0,78,M,39,2,Heterosexual  / Straight
+0,66,M,40,NULL,NULL
+0,69,M,41,2,NULL
+0,72,F,42,2,Not Known / Not recorded
+0,70,M,43,NULL,NULL
+0,64,F,44,NULL,Heterosexual  / Straight
+0,84,F,45,NULL,Not Known
+0,86,F,46,NULL,Not Known / Not recorded
+0,67,F,47,NULL,Heterosexual  / Straight
+0,78,M,48,2,Not Known
+0,69,M,49,2,Not Known / Not recorded
+0,84,F,50,NULL,Heterosexual  / Straight
+0,76,F,51,NULL,NULL
+0,79,M,52,2,Heterosexual  / Straight
+0,71,M,53,2,Heterosexual  / Straight
+0,68,F,54,2,Heterosexual  / Straight
+0,67,M,55,2,Heterosexual  / Straight
+1,79,M,56,NULL,NULL
+0,82,F,57,NULL,Heterosexual  / Straight
+0,77,F,58,NULL,Heterosexual  / Straight
+0,72,M,59,NULL,Heterosexual  / Straight
+0,72,M,60,NULL,NULL
+0,74,F,61,2,Heterosexual  / Straight
+0,78,F,62,NULL,Not Known / Not recorded
+0,59,F,63,2,Heterosexual  / Straight
+0,78,F,64,NULL,NULL
+0,81,M,65,2,Heterosexual  / Straight
+0,77,M,66,2,Heterosexual  / Straight
+0,86,F,67,2,Heterosexual  / Straight
+0,57,M,68,NULL,Not Known / Not recorded
+0,69,F,69,2,Heterosexual  / Straight
+0,81,M,70,2,Not Known / Not recorded
+0,70,M,71,2,Heterosexual  / Straight
+0,62,F,72,NULL,Heterosexual  / Straight
+0,76,F,73,2,Heterosexual  / Straight
+0,78,F,74,NULL,Not Known
+0,81,F,75,2,Heterosexual  / Straight
+0,65,M,76,NULL,NULL
+0,78,M,77,NULL,NULL
+0,69,F,78,NULL,Heterosexual  / Straight
+0,82,F,79,NULL,Heterosexual  / Straight
+0,63,M,80,NULL,Not Known / Not recorded
+0,78,F,81,2,Heterosexual  / Straight
+0,75,M,82,NULL,Not Known
+0,75,M,83,NULL,NULL
+0,69,M,84,2,Heterosexual  / Straight
+0,63,F,85,NULL,Heterosexual  / Straight
+0,77,M,86,NULL,Heterosexual  / Straight
+0,76,F,87,NULL,Heterosexual  / Straight
+0,68,M,88,NULL,Bisexual
+0,71,F,89,NULL,NULL
+0,72,M,90,NULL,NULL
+0,65,M,91,NULL,NULL
+0,73,F,92,2,Heterosexual  / Straight
+1,79,F,93,2,Heterosexual  / Straight
+0,71,F,94,2,Heterosexual  / Straight
+0,86,M,95,2,Heterosexual  / Straight
+0,77,F,96,NULL,Heterosexual  / Straight
+0,73,F,97,2,Heterosexual  / Straight
+0,70,M,98,NULL,Prefer not to say
+0,69,M,99,2,Heterosexual  / Straight
+0,57,M,100,NULL,NULL
+0,64,F,101,NULL,NULL
+0,38,M,102,NULL,NULL
+0,30,F,103,NULL,NULL
+0,32,M,104,NULL,Not Known / Not recorded
+0,56,M,105,NULL,NULL
+0,71,F,106,NULL,NULL
+0,24,F,107,NULL,NULL
+0,44,M,108,NULL,NULL
+0,47,F,109,2,Heterosexual  / Straight
+0,50,M,110,2,Heterosexual  / Straight
+0,80,M,111,NULL,NULL
+0,45,F,112,NULL,NULL
+1,90,M,113,NULL,Not Known
+0,22,M,114,NULL,NULL
+0,56,F,115,2,Heterosexual  / Straight
+0,39,F,116,NULL,Gay / Lesbian
+0,77,F,117,2,Heterosexual  / Straight
+0,62,M,118,NULL,NULL
+0,57,F,119,NULL,NULL
+0,37,M,120,NULL,NULL
+0,49,M,121,NULL,NULL
+0,42,M,122,NULL,NULL
+0,49,M,123,NULL,NULL
+0,44,F,124,NULL,NULL
+0,46,F,125,NULL,NULL
+0,33,M,126,NULL,NULL
+0,65,F,127,2,Heterosexual  / Straight
+0,83,F,128,NULL,Heterosexual  / Straight
+0,33,F,129,NULL,NULL
+0,32,M,130,2,Not Known / Not recorded
+0,57,M,131,2,Heterosexual  / Straight
+0,70,M,132,NULL,Not Known / Not recorded
+0,45,F,133,NULL,NULL
+0,43,F,134,NULL,Not Known
+0,47,F,135,NULL,NULL
+0,29,F,136,NULL,Not Known / Not recorded
+0,40,F,137,NULL,Heterosexual  / Straight
+0,39,F,138,NULL,NULL
+0,55,M,139,NULL,NULL
+0,76,F,140,NULL,NULL
+0,51,M,141,NULL,NULL
+0,31,F,142,2,Heterosexual  / Straight
+0,35,F,143,NULL,NULL
+0,72,M,144,NULL,Heterosexual  / Straight
+0,65,M,145,NULL,NULL
+0,51,F,146,NULL,NULL
+0,44,M,147,NULL,Heterosexual  / Straight
+0,45,M,148,2,Heterosexual  / Straight
+0,45,M,149,NULL,NULL
+0,38,F,150,NULL,NULL
+0,41,M,151,NULL,NULL
+0,50,F,152,NULL,Other
+0,27,F,153,NULL,NULL
+0,34,F,154,2,Heterosexual  / Straight
+0,27,F,155,NULL,NULL
+0,43,F,156,NULL,NULL
+0,28,F,157,2,Gay / Lesbian
+0,41,F,158,2,Heterosexual  / Straight
+0,38,M,159,NULL,NULL
+0,55,M,160,NULL,NULL
+0,41,M,161,NULL,Heterosexual  / Straight
+0,87,M,162,NULL,NULL
+0,76,M,163,2,Not Known / Not recorded
+0,41,M,164,NULL,NULL
+0,34,M,165,NULL,Not Known / Not recorded
+0,28,M,166,NULL,NULL
+0,60,M,167,NULL,NULL
+0,40,F,168,NULL,Heterosexual  / Straight
+0,73,M,169,2,Not Known / Not recorded
+0,25,F,170,NULL,NULL
+0,33,M,171,NULL,NULL
+0,65,F,172,NULL,NULL
+0,35,M,173,NULL,NULL
+0,23,M,174,NULL,NULL
+0,39,F,175,NULL,NULL
+0,32,M,176,2,Not Known / Not recorded
+0,62,F,177,NULL,Heterosexual  / Straight
+0,61,M,178,NULL,NULL
+0,25,M,179,NULL,NULL
+0,32,M,180,NULL,Not Known / Not recorded
+0,39,F,181,NULL,NULL
+0,65,F,182,NULL,NULL
+0,46,F,183,NULL,Heterosexual  / Straight
+0,55,F,184,NULL,Heterosexual  / Straight
+0,29,F,185,NULL,NULL
+0,69,M,186,NULL,NULL
+0,41,F,187,NULL,Heterosexual  / Straight
+0,36,M,188,2,Prefer not to say
+0,27,M,189,2,Not Known
+0,29,F,190,NULL,NULL
+0,26,M,191,2,Heterosexual  / Straight
+0,42,M,192,NULL,NULL
+0,30,F,193,NULL,Not Known / Not recorded
+0,21,M,194,NULL,NULL
+0,44,F,195,NULL,Heterosexual  / Straight
+1,29,F,196,NULL,NULL
+0,61,F,197,NULL,Heterosexual  / Straight
+0,34,F,198,NULL,NULL
+0,42,F,199,NULL,Not Known / Not recorded
+0,43,F,200,NULL,NULL
+0,37,M,201,NULL,NULL
+0,39,M,202,NULL,NULL
+0,34,M,203,NULL,Heterosexual  / Straight
+0,76,M,204,NULL,Not Known / Not recorded
+0,57,F,205,NULL,NULL
+0,45,F,206,NULL,Heterosexual  / Straight
+0,27,M,207,NULL,NULL
+0,28,M,208,2,Not Known / Not recorded
+0,31,M,209,NULL,Not Known / Not recorded
+0,32,M,210,NULL,NULL
+0,32,M,211,NULL,NULL
+0,37,F,212,NULL,Heterosexual  / Straight
+0,72,F,213,NULL,NULL
+0,36,F,214,NULL,NULL
+0,23,M,215,NULL,NULL
+0,39,M,216,NULL,Not Known / Not recorded
+0,48,M,217,NULL,NULL
+0,64,F,218,NULL,Not Known / Not recorded
+0,56,F,219,NULL,NULL
+0,46,M,220,2,Heterosexual  / Straight
+0,55,F,221,NULL,Not Known / Not recorded
+0,52,M,222,2,Heterosexual  / Straight
+0,21,F,223,NULL,NULL
+0,66,F,224,NULL,Not Known / Not recorded
+0,33,M,225,NULL,NULL
+0,29,F,226,NULL,NULL
+0,31,F,227,NULL,Not Known / Not recorded
+0,44,F,228,NULL,NULL
+1,75,M,229,NULL,NULL
+0,53,M,230,NULL,NULL
+0,50,F,231,NULL,Not Known / Not recorded
+0,51,F,232,2,Heterosexual  / Straight
+0,42,M,233,NULL,NULL
+0,37,F,234,NULL,Not Known / Not recorded
+0,21,F,235,NULL,NULL
+0,82,M,236,NULL,Not Known / Not recorded
+0,52,M,237,NULL,Heterosexual  / Straight
+0,61,F,238,2,Heterosexual  / Straight
+0,84,F,239,2,Heterosexual  / Straight
+0,48,M,240,NULL,NULL
+0,52,F,241,NULL,Heterosexual  / Straight
+0,70,F,242,NULL,Heterosexual  / Straight
+0,33,F,243,NULL,NULL
+0,45,M,244,2,Heterosexual  / Straight
+0,45,M,245,NULL,NULL
+0,30,M,246,2,Heterosexual  / Straight
+0,82,F,247,NULL,NULL
+0,82,M,248,NULL,NULL
+0,26,F,249,NULL,NULL
+0,21,F,250,2,Heterosexual  / Straight
+0,60,M,251,NULL,NULL
+0,71,M,252,2,Heterosexual  / Straight
+0,38,F,253,NULL,NULL
+0,44,M,254,2,Heterosexual  / Straight
+0,32,F,255,NULL,Heterosexual  / Straight
+0,42,M,256,NULL,Not Known
+0,45,M,257,NULL,NULL
+0,59,M,258,NULL,Heterosexual  / Straight
+0,75,M,259,NULL,Not Known / Not recorded
+0,31,M,260,NULL,NULL
+1,85,M,261,NULL,NULL
+0,52,M,262,NULL,NULL
+0,28,F,263,NULL,NULL
+0,37,M,264,2,Heterosexual  / Straight
+0,81,M,265,2,Heterosexual  / Straight
+0,83,F,266,NULL,NULL
+0,46,F,267,NULL,NULL
+0,42,M,268,NULL,NULL
+0,84,F,269,NULL,NULL
+0,40,M,270,NULL,NULL
+0,69,F,271,2,Heterosexual  / Straight
+1,89,M,272,NULL,NULL
+0,54,M,273,NULL,NULL
+0,65,M,274,NULL,NULL
+1,25,M,275,NULL,NULL
+0,89,M,276,NULL,NULL
+0,39,F,277,NULL,NULL
+0,62,F,278,NULL,NULL
+0,46,F,279,NULL,Heterosexual  / Straight
+0,67,M,280,NULL,NULL
+0,61,F,281,NULL,NULL
+0,41,F,282,NULL,NULL
+0,36,M,283,NULL,NULL
+0,32,F,284,NULL,NULL
+0,35,M,285,NULL,NULL
+0,31,F,286,NULL,NULL
+0,32,F,287,NULL,NULL
+0,26,F,288,NULL,NULL
+0,41,M,289,NULL,NULL
+0,31,F,290,NULL,Heterosexual  / Straight
+0,38,M,291,NULL,NULL
+0,85,F,292,NULL,NULL
+0,50,M,293,2,NULL
+0,66,M,294,NULL,NULL
+0,39,M,295,NULL,NULL
+0,20,M,296,NULL,NULL
+0,84,M,297,NULL,NULL
+0,37,F,298,NULL,Heterosexual  / Straight
+0,28,M,299,NULL,NULL
+0,63,M,300,2,Heterosexual  / Straight
+0,66,F,301,NULL,Not Known / Not recorded
+1,80,M,302,NULL,NULL
+0,48,M,303,NULL,Not Known / Not recorded
+0,45,M,304,NULL,NULL
+0,32,M,305,NULL,NULL
+0,30,F,306,2,Heterosexual  / Straight
+0,31,F,307,NULL,NULL
+0,55,F,308,NULL,Prefer not to say
+0,29,M,309,NULL,Heterosexual  / Straight
+0,62,M,310,2,Not Known / Not recorded
+0,28,M,311,NULL,Heterosexual  / Straight
+0,24,M,312,NULL,Not Known
+0,36,M,313,NULL,Heterosexual  / Straight
+0,45,M,314,2,Heterosexual  / Straight
+0,24,F,315,NULL,NULL
+0,43,M,316,2,Heterosexual  / Straight
+0,38,M,317,2,Not Known
+0,51,M,318,NULL,NULL
+0,54,F,319,2,Not Known / Not recorded
+0,62,F,320,NULL,Heterosexual  / Straight
+0,40,F,321,NULL,NULL
+0,50,F,322,NULL,NULL
+0,42,F,323,NULL,Bisexual
+0,21,F,324,NULL,Not Known / Not recorded
+0,54,F,325,NULL,NULL
+0,31,F,326,NULL,NULL
+0,58,F,327,NULL,NULL
+0,66,F,328,NULL,NULL
+0,72,F,329,NULL,NULL
+0,33,F,330,NULL,NULL
+0,82,F,331,NULL,Not Known / Not recorded
+0,37,M,332,2,Heterosexual  / Straight
+0,67,M,333,NULL,Not Known / Not recorded
+0,32,F,334,NULL,NULL
+0,38,F,335,NULL,NULL
+0,35,F,336,NULL,Not Known / Not recorded
+0,32,M,337,NULL,NULL
+0,42,M,338,2,Heterosexual  / Straight
+0,36,M,339,NULL,NULL
+0,28,F,340,2,Heterosexual  / Straight
+0,31,M,341,NULL,NULL
+0,56,M,342,2,Heterosexual  / Straight
+0,36,F,343,2,Heterosexual  / Straight
+0,55,M,344,NULL,NULL
+0,45,F,345,NULL,NULL
+0,26,M,346,NULL,NULL
+0,65,M,347,NULL,NULL
+0,27,M,348,NULL,NULL
+0,29,F,349,NULL,NULL
+0,45,M,350,NULL,Heterosexual  / Straight
+0,64,M,351,2,Heterosexual  / Straight
+0,80,F,352,NULL,Heterosexual  / Straight
+0,36,F,353,NULL,NULL
+0,70,F,354,2,Not Known
+0,64,M,355,NULL,Heterosexual  / Straight
+0,81,M,356,NULL,NULL
+0,78,F,357,2,Heterosexual  / Straight
+0,50,M,358,2,Heterosexual  / Straight
+0,47,F,359,NULL,NULL
+0,36,M,360,NULL,NULL
+1,42,F,361,NULL,Not Known / Not recorded
+0,55,F,362,NULL,Not Known
+0,50,F,363,NULL,Heterosexual  / Straight
+0,43,M,364,NULL,NULL
+0,45,F,365,NULL,NULL
+0,36,F,366,NULL,Not Known
+0,51,M,367,NULL,NULL
+0,39,M,368,2,Heterosexual  / Straight
+0,56,M,369,NULL,NULL
+0,89,M,370,NULL,NULL
+0,25,F,371,NULL,Not Known / Not recorded
+0,55,F,372,NULL,NULL
+0,30,M,373,NULL,NULL
+0,51,M,374,NULL,NULL
+1,78,F,375,2,Heterosexual  / Straight
+0,38,M,376,NULL,Prefer not to say
+0,40,F,377,NULL,NULL
+0,80,M,378,NULL,Heterosexual  / Straight
+0,27,M,379,NULL,NULL
+0,78,F,380,NULL,NULL
+0,42,M,381,NULL,Not Known
+0,48,F,382,NULL,NULL
+0,35,F,383,NULL,NULL
+0,19,M,384,NULL,NULL
+0,50,F,385,NULL,NULL
+0,53,M,386,NULL,NULL
+0,35,F,387,NULL,NULL
+0,41,M,388,NULL,Heterosexual  / Straight
+0,36,F,389,2,Not Known / Not recorded
+0,39,M,390,NULL,NULL
+0,35,M,391,NULL,NULL
+0,38,M,392,2,Heterosexual  / Straight
+0,29,M,393,NULL,NULL
+0,21,F,394,NULL,NULL
+0,31,F,395,NULL,NULL
+0,31,M,396,NULL,NULL
+0,45,F,397,NULL,NULL
+0,63,M,398,NULL,Gay / Lesbian
+0,91,F,399,NULL,NULL
+0,46,F,400,NULL,NULL
+0,30,M,401,2,NULL
+0,27,M,402,2,Not Known / Not recorded
+0,51,M,403,NULL,NULL
+0,35,M,404,NULL,NULL
+0,30,M,405,NULL,NULL
+0,68,M,406,2,Heterosexual  / Straight
+0,39,F,407,NULL,NULL
+0,48,F,408,2,Heterosexual  / Straight
+0,73,M,409,NULL,NULL
+0,30,M,410,2,Heterosexual  / Straight
+0,56,M,411,2,Heterosexual  / Straight
+0,59,M,412,NULL,NULL
+0,61,M,413,NULL,NULL
+0,40,M,414,NULL,NULL
+0,52,F,415,NULL,Heterosexual  / Straight
+0,24,M,416,NULL,NULL
+0,39,M,417,2,Heterosexual  / Straight
+0,56,F,418,2,Heterosexual  / Straight
+0,46,F,419,NULL,NULL
+0,22,M,420,NULL,NULL
+0,52,F,421,NULL,NULL
+0,35,F,422,NULL,NULL
+0,62,M,423,NULL,NULL
+0,48,F,424,2,Heterosexual  / Straight
+0,43,M,425,NULL,NULL
+0,37,M,426,NULL,NULL
+0,22,F,427,NULL,NULL
+0,66,F,428,2,Heterosexual  / Straight
+0,40,F,429,NULL,NULL
+0,50,M,430,NULL,NULL
+0,55,F,431,NULL,NULL
+0,32,M,432,NULL,Heterosexual  / Straight
+0,27,M,433,NULL,NULL
+0,33,M,434,NULL,NULL
+0,49,M,435,NULL,NULL
+0,87,M,436,2,Heterosexual  / Straight
+0,65,M,437,2,Heterosexual  / Straight
+0,39,F,438,2,Heterosexual  / Straight
+0,49,F,439,NULL,NULL
+0,59,F,440,NULL,NULL
+1,89,F,441,NULL,Heterosexual  / Straight
+1,75,M,442,NULL,Heterosexual  / Straight
+0,32,M,443,NULL,NULL
+0,27,M,444,NULL,NULL
+0,49,M,445,NULL,NULL
+0,25,M,446,NULL,NULL
+0,35,M,447,NULL,NULL
+0,75,M,448,2,Not Known
+0,47,F,449,NULL,NULL
+0,51,M,450,NULL,NULL
+0,34,F,451,NULL,NULL
+0,40,F,452,NULL,Not Known / Not recorded
+0,66,F,453,NULL,Not Known
+0,90,M,454,2,Heterosexual  / Straight
+0,40,F,455,2,Heterosexual  / Straight
+0,52,F,456,2,Not Known / Not recorded
+0,49,F,457,NULL,NULL
+0,38,M,458,NULL,NULL
+0,43,F,459,2,Other
+0,41,F,460,NULL,NULL
+0,38,F,461,NULL,Not Known / Not recorded
+0,26,M,462,2,Not Known / Not recorded
+0,40,M,463,NULL,Heterosexual  / Straight
+0,35,M,464,NULL,NULL
+0,71,F,465,NULL,Heterosexual  / Straight
+0,35,M,466,NULL,NULL
+0,53,M,467,NULL,NULL
+0,38,M,468,NULL,Heterosexual  / Straight
+0,75,F,469,NULL,NULL
+0,55,M,470,2,Heterosexual  / Straight
+0,35,F,471,NULL,Heterosexual  / Straight
+0,43,F,472,NULL,Not Known / Not recorded
+0,30,F,473,2,Not Known / Not recorded
+0,65,M,474,2,Heterosexual  / Straight
+0,92,M,475,2,Not Known / Not recorded
+0,50,F,476,NULL,NULL
+0,79,F,477,NULL,NULL
+0,62,M,478,NULL,NULL
+0,31,M,479,NULL,NULL
+0,54,F,480,NULL,NULL
+0,27,F,481,NULL,NULL
+0,47,F,482,NULL,NULL
+0,42,M,483,NULL,NULL
+0,84,M,484,NULL,NULL
+0,43,M,485,NULL,NULL
+0,83,F,486,2,NULL
+0,29,M,487,2,Heterosexual  / Straight
+0,46,M,488,NULL,Heterosexual  / Straight
+0,45,F,489,NULL,Heterosexual  / Straight
+0,58,M,490,2,Heterosexual  / Straight
+0,30,F,491,NULL,NULL
+0,31,F,492,2,Not Known
+0,39,F,493,NULL,NULL
+0,81,M,494,NULL,NULL
+0,24,F,495,NULL,NULL
+0,35,F,496,NULL,NULL
+0,57,F,497,NULL,NULL
+0,48,F,498,NULL,Bisexual
+1,69,M,499,NULL,NULL
+0,35,M,500,2,Not Known / Not recorded
+0,29,M,501,NULL,Not Known
+0,22,F,502,NULL,NULL
+0,53,F,503,NULL,NULL
+0,54,M,504,NULL,NULL
+0,37,M,505,2,Heterosexual  / Straight
+0,32,M,506,2,Not Known / Not recorded
+1,61,F,507,NULL,Prefer not to say
+0,35,F,508,2,Heterosexual  / Straight
+0,30,M,509,NULL,NULL
+0,40,M,510,NULL,NULL
+0,91,F,511,NULL,NULL
+0,76,M,512,NULL,Heterosexual  / Straight
+0,64,M,513,NULL,NULL
+0,44,F,514,2,Heterosexual  / Straight
+0,23,M,515,NULL,NULL
+0,28,F,516,NULL,NULL
+0,37,F,517,NULL,NULL
+0,53,M,518,NULL,NULL
+0,54,F,519,2,Heterosexual  / Straight
+0,28,M,520,NULL,NULL
+0,43,F,521,NULL,NULL
+0,34,M,522,NULL,NULL
+0,29,M,523,NULL,NULL
+0,93,M,524,NULL,Not Known
+0,27,F,525,NULL,NULL
+0,48,F,526,2,Heterosexual  / Straight
+0,43,M,527,NULL,NULL
+0,56,M,528,2,Heterosexual  / Straight
+1,69,M,529,2,Heterosexual  / Straight
+0,73,F,530,NULL,NULL
+0,40,M,531,NULL,NULL
+0,68,M,532,NULL,Other
+0,43,M,533,NULL,NULL
+0,39,F,534,NULL,NULL
+0,26,M,535,NULL,NULL
+0,24,M,536,NULL,NULL
+0,33,F,537,NULL,Heterosexual  / Straight
+0,64,F,538,NULL,NULL
+0,35,M,539,NULL,Not Known / Not recorded
+0,46,M,540,NULL,Heterosexual  / Straight
+0,46,F,541,NULL,NULL
+0,38,F,542,2,Heterosexual  / Straight
+0,35,M,543,NULL,Not Known
+0,30,M,544,NULL,NULL
+0,36,M,545,NULL,NULL
+0,69,M,546,2,Heterosexual  / Straight
+0,50,F,547,NULL,Heterosexual  / Straight
+0,78,F,548,2,Not Known
+0,50,M,549,NULL,Heterosexual  / Straight
+0,30,F,550,NULL,NULL
+0,83,F,551,NULL,Heterosexual  / Straight
+0,85,M,552,NULL,NULL
+0,70,M,553,NULL,NULL
+0,81,M,554,NULL,NULL
+0,29,M,555,NULL,NULL
+0,82,F,556,2,Heterosexual  / Straight
+0,35,M,557,NULL,NULL
+0,71,M,558,NULL,Prefer not to say
+0,45,F,559,NULL,NULL
+0,31,M,560,NULL,NULL
+0,64,M,561,NULL,NULL
+0,36,F,562,NULL,NULL
+0,60,M,563,NULL,NULL
+0,44,M,564,NULL,NULL
+0,33,M,565,NULL,NULL
+0,29,F,566,NULL,Not Known / Not recorded
+1,80,M,567,NULL,NULL
+0,32,M,568,2,Heterosexual  / Straight
+0,57,M,569,NULL,NULL
+0,42,M,570,NULL,Not Known / Not recorded
+0,52,M,571,NULL,Heterosexual  / Straight
+0,29,F,572,NULL,NULL
+0,26,M,573,NULL,NULL
+0,54,F,574,2,Heterosexual  / Straight
+0,31,F,575,NULL,NULL
+0,60,F,576,2,Not Known
+0,55,F,577,NULL,Heterosexual  / Straight
+0,44,F,578,NULL,NULL
+0,57,F,579,2,Heterosexual  / Straight
+0,29,F,580,NULL,NULL
+0,35,F,581,NULL,Not Known
+0,28,M,582,NULL,NULL
+0,41,F,583,NULL,NULL
+0,40,M,584,NULL,NULL
+0,30,F,585,2,Heterosexual  / Straight
+1,56,F,586,NULL,NULL
+0,42,M,587,NULL,NULL
+0,40,F,588,NULL,NULL
+0,39,M,589,NULL,Not Known / Not recorded
+0,41,F,590,NULL,NULL
+0,26,M,591,NULL,NULL
+0,52,F,592,NULL,NULL
+0,74,M,593,NULL,NULL
+0,85,M,594,NULL,NULL
+0,25,F,595,NULL,NULL
+0,31,F,596,NULL,Not Known / Not recorded
+0,30,M,597,NULL,Heterosexual  / Straight
+0,33,F,598,NULL,Heterosexual  / Straight
+0,91,F,599,NULL,NULL
+0,31,M,600,NULL,NULL
+0,55,M,601,NULL,NULL
+0,45,F,602,NULL,NULL
+0,50,F,603,2,Heterosexual  / Straight
+0,86,M,604,NULL,NULL
+0,25,M,605,NULL,Not Known / Not recorded
+0,57,M,606,2,Heterosexual  / Straight
+0,55,M,607,NULL,NULL
+0,28,F,608,NULL,NULL
+0,32,M,609,NULL,NULL
+0,41,F,610,NULL,NULL
+0,54,M,611,2,Heterosexual  / Straight
+0,82,F,612,NULL,Not Known / Not recorded
+1,58,F,613,2,Heterosexual  / Straight
+1,91,M,614,NULL,Heterosexual  / Straight
+0,48,F,615,NULL,NULL
+0,59,M,616,NULL,NULL
+0,37,F,617,NULL,NULL
+0,82,F,618,2,Heterosexual  / Straight
+0,64,F,619,NULL,Not Known / Not recorded
+0,22,M,620,NULL,NULL
+0,74,M,621,NULL,Heterosexual  / Straight
+0,36,M,622,NULL,NULL
+0,52,M,623,NULL,NULL
+0,26,F,624,NULL,Not Known / Not recorded
+0,38,M,625,NULL,NULL
+0,31,M,626,NULL,NULL
+0,32,M,627,2,Heterosexual  / Straight
+0,36,M,628,2,Heterosexual  / Straight
+0,52,M,629,NULL,NULL
+0,24,M,630,NULL,NULL
+0,69,M,631,NULL,NULL
+0,27,F,632,NULL,NULL
+0,35,M,633,NULL,NULL
+0,56,M,634,NULL,NULL
+0,33,F,635,NULL,NULL
+0,31,F,636,NULL,Prefer not to say
+0,44,M,637,NULL,Heterosexual  / Straight
+0,21,M,638,NULL,NULL
+1,75,F,639,NULL,NULL
+0,36,F,640,2,Heterosexual  / Straight
+0,44,F,641,NULL,NULL
+1,47,M,642,NULL,NULL
+0,49,F,643,NULL,NULL
+0,37,M,644,NULL,NULL
+1,80,F,645,NULL,NULL
+0,55,F,646,NULL,NULL
+0,55,F,647,NULL,Heterosexual  / Straight
+0,41,F,648,NULL,NULL
+0,52,F,649,2,Heterosexual  / Straight
+0,28,F,650,NULL,NULL
+0,35,M,651,NULL,NULL
+0,37,M,652,NULL,NULL
+0,40,F,653,NULL,NULL
+0,33,M,654,NULL,NULL
+0,65,M,655,NULL,Not Known
+0,30,M,656,NULL,NULL
+0,32,M,657,NULL,Not Known / Not recorded
+0,63,F,658,NULL,Heterosexual  / Straight
+0,62,F,659,NULL,NULL
+0,32,F,660,NULL,Other
+0,31,F,661,2,Heterosexual  / Straight
+0,53,M,662,NULL,Heterosexual  / Straight
+0,27,F,663,NULL,NULL
+0,59,F,664,2,Heterosexual  / Straight
+0,27,F,665,NULL,NULL
+0,31,F,666,NULL,NULL
+0,33,M,667,2,Heterosexual  / Straight
+0,45,M,668,2,NULL
+0,30,F,669,NULL,NULL
+0,70,M,670,2,Not Known / Not recorded
+0,27,M,671,NULL,NULL
+0,57,M,672,NULL,Heterosexual  / Straight
+0,63,F,673,NULL,NULL
+0,33,M,674,NULL,NULL
+0,75,M,675,NULL,NULL
+0,25,F,676,NULL,NULL
+0,69,F,677,NULL,NULL
+0,33,M,678,NULL,NULL
+0,42,M,679,NULL,NULL
+0,43,M,680,NULL,NULL
+1,68,M,681,2,Not Known / Not recorded
+0,51,M,682,NULL,Not Known / Not recorded
+0,52,M,683,NULL,Not Known
+0,56,M,684,NULL,NULL
+0,51,F,685,NULL,Prefer not to say
+0,43,F,686,2,Heterosexual  / Straight
+0,46,M,687,2,Heterosexual  / Straight
+0,52,F,688,2,Heterosexual  / Straight
+0,22,M,689,NULL,NULL
+0,27,M,690,NULL,NULL
+0,45,F,691,2,Gay / Lesbian
+1,25,F,692,NULL,Prefer not to say
+0,48,M,693,2,Heterosexual  / Straight
+0,32,F,694,NULL,NULL
+0,69,F,695,NULL,Heterosexual  / Straight
+0,76,F,696,NULL,NULL
+0,32,M,697,NULL,NULL
+0,36,M,698,NULL,NULL
+0,62,M,699,NULL,Not Known / Not recorded
+0,57,F,700,NULL,NULL
+0,50,M,701,2,Heterosexual  / Straight
+0,47,M,702,NULL,NULL
+0,30,F,703,NULL,NULL
+0,69,F,704,NULL,NULL
+0,89,M,705,NULL,Heterosexual  / Straight
+0,73,M,706,2,Heterosexual  / Straight
+0,39,M,707,NULL,NULL
+0,61,M,708,NULL,NULL
+0,29,F,709,2,Heterosexual  / Straight
+0,49,F,710,NULL,Not Known
+0,50,M,711,NULL,NULL
+0,70,M,712,NULL,NULL
+0,34,F,713,2,Not Known / Not recorded
+0,53,M,714,NULL,NULL
+0,54,F,715,2,Heterosexual  / Straight
+0,30,M,716,NULL,NULL
+0,32,M,717,NULL,NULL
+0,49,M,718,NULL,NULL
+0,36,F,719,NULL,NULL
+0,25,M,720,NULL,NULL
+0,56,F,721,NULL,Not Known / Not recorded
+0,57,F,722,NULL,Gay / Lesbian
+0,36,M,723,NULL,NULL
+0,38,F,724,NULL,NULL
+0,61,F,725,NULL,NULL
+0,60,F,726,NULL,NULL
+0,48,F,727,NULL,NULL
+0,65,F,728,NULL,NULL
+0,68,M,729,NULL,NULL
+0,58,M,730,NULL,NULL
+0,59,F,731,NULL,NULL
+0,50,M,732,2,NULL
+0,28,M,733,NULL,NULL
+0,85,M,734,NULL,NULL
+0,62,M,735,2,Not Known
+0,29,M,736,NULL,NULL
+0,72,M,737,NULL,Not Known
+0,30,M,738,NULL,NULL
+0,25,M,739,NULL,NULL
+0,23,F,740,NULL,NULL
+0,36,F,741,2,Heterosexual  / Straight
+0,36,F,742,NULL,Heterosexual  / Straight
+0,33,F,743,NULL,NULL
+0,43,M,744,NULL,NULL
+0,38,F,745,NULL,NULL
+0,53,F,746,NULL,NULL
+0,50,M,747,NULL,Heterosexual  / Straight
+0,39,M,748,NULL,NULL
+0,41,M,749,NULL,Heterosexual  / Straight
+0,77,F,750,NULL,NULL
+0,42,M,751,NULL,Heterosexual  / Straight
+0,38,F,752,2,Not Known / Not recorded
+0,37,M,753,NULL,NULL
+0,50,F,754,2,Heterosexual  / Straight
+0,29,F,755,NULL,Not Known / Not recorded
+1,67,F,756,NULL,Not Known
+0,37,M,757,2,Heterosexual  / Straight
+0,41,M,758,2,Heterosexual  / Straight
+0,71,F,759,NULL,NULL
+0,51,F,760,NULL,NULL
+0,88,F,761,2,Heterosexual  / Straight
+0,28,M,762,NULL,NULL
+0,48,M,763,NULL,NULL
+1,82,F,764,NULL,NULL
+0,76,M,765,NULL,NULL
+0,23,F,766,NULL,NULL
+0,50,M,767,2,Heterosexual  / Straight
+0,32,M,768,NULL,Not Known
+0,26,M,769,NULL,NULL
+0,52,F,770,2,Heterosexual  / Straight
+0,31,F,771,NULL,NULL
+0,28,M,772,NULL,NULL
+0,49,F,773,NULL,Prefer not to say
+0,48,F,774,NULL,NULL
+0,20,F,775,NULL,Heterosexual  / Straight
+0,29,M,776,NULL,Not Known / Not recorded
+0,38,M,777,NULL,NULL
+1,90,M,778,NULL,NULL
+0,20,M,779,NULL,NULL
+0,35,F,780,NULL,NULL
+0,32,M,781,NULL,NULL
+0,46,M,782,NULL,NULL
+1,83,M,783,2,Heterosexual  / Straight
+0,58,F,784,NULL,NULL
+0,26,F,785,NULL,NULL
+0,32,M,786,NULL,NULL
+0,35,M,787,NULL,NULL
+0,29,M,788,NULL,Heterosexual  / Straight
+0,43,F,789,NULL,NULL
+0,32,F,790,NULL,NULL
+0,38,M,791,NULL,NULL
+0,80,M,792,NULL,Not Known / Not recorded
+0,20,F,793,2,Heterosexual  / Straight
+0,29,M,794,NULL,NULL
+0,25,M,795,NULL,Heterosexual  / Straight
+0,23,F,796,NULL,NULL
+0,65,F,797,NULL,Not Known / Not recorded
+0,61,M,798,NULL,NULL
+0,36,M,799,NULL,NULL
+0,21,M,800,NULL,NULL
+0,54,M,801,NULL,NULL
+0,41,M,802,NULL,NULL
+0,44,F,803,2,Heterosexual  / Straight
+0,35,F,804,NULL,NULL
+0,35,M,805,NULL,NULL
+0,28,F,806,NULL,NULL
+0,63,M,807,NULL,Heterosexual  / Straight
+1,68,F,808,NULL,NULL
+0,67,F,809,NULL,NULL
+0,39,M,810,NULL,Heterosexual  / Straight
+0,40,F,811,2,Heterosexual  / Straight
+0,41,F,812,NULL,NULL
+0,34,F,813,NULL,Bisexual
+0,20,F,814,NULL,Heterosexual  / Straight
+0,43,M,815,NULL,NULL
+0,30,F,816,NULL,Heterosexual  / Straight
+0,64,F,817,NULL,NULL
+0,53,F,818,2,Heterosexual  / Straight
+0,30,F,819,NULL,NULL
+0,77,F,820,NULL,NULL
+0,36,M,821,2,Heterosexual  / Straight
+0,46,F,822,NULL,Heterosexual  / Straight
+0,40,F,823,NULL,NULL
+0,48,M,824,NULL,NULL
+0,34,F,825,NULL,NULL
+0,21,F,826,NULL,NULL
+0,57,F,827,NULL,Heterosexual  / Straight
+0,32,F,828,NULL,NULL
+0,81,M,829,NULL,Heterosexual  / Straight
+0,47,M,830,NULL,Heterosexual  / Straight
+0,72,M,831,NULL,Not Known / Not recorded
+0,32,F,832,NULL,NULL
+0,30,M,833,NULL,NULL
+0,29,F,834,NULL,NULL
+0,55,M,835,NULL,Heterosexual  / Straight
+0,25,F,836,2,Gay / Lesbian
+0,74,F,837,2,Heterosexual  / Straight
+0,35,M,838,NULL,NULL
+1,57,M,839,NULL,NULL
+0,78,M,840,2,Not Known / Not recorded
+1,42,F,841,NULL,NULL
+0,26,M,842,NULL,NULL
+0,55,F,843,NULL,Not Known / Not recorded
+0,72,M,844,2,Not Known
+1,78,F,845,NULL,NULL
+0,42,F,846,2,Heterosexual  / Straight
+0,52,M,847,NULL,NULL
+0,36,M,848,2,Not Known / Not recorded
+0,46,M,849,NULL,NULL
+0,31,F,850,NULL,NULL
+0,78,F,851,NULL,Not Known / Not recorded
+0,41,M,852,NULL,NULL
+0,47,F,853,NULL,NULL
+0,28,M,854,NULL,Not Known / Not recorded
+0,77,F,855,2,NULL
+0,41,M,856,NULL,Heterosexual  / Straight
+0,60,M,857,NULL,NULL
+0,36,M,858,NULL,NULL
+0,35,M,859,NULL,NULL
+0,45,M,860,NULL,NULL
+1,90,M,861,NULL,NULL
+0,55,F,862,NULL,Heterosexual  / Straight
+0,25,F,863,2,NULL
+0,38,F,864,NULL,NULL
+0,53,M,865,NULL,NULL
+0,75,M,866,NULL,Not Known / Not recorded
+0,30,F,867,NULL,NULL
+0,36,M,868,NULL,NULL
+0,37,M,869,NULL,Not Known / Not recorded
+0,28,F,870,NULL,NULL
+0,76,M,871,NULL,NULL
+1,79,F,872,NULL,Heterosexual  / Straight
+0,28,M,873,NULL,Heterosexual  / Straight
+0,45,M,874,NULL,NULL
+0,36,M,875,NULL,NULL
+0,32,F,876,NULL,NULL
+0,18,M,877,NULL,NULL
+0,89,M,878,NULL,NULL
+0,75,F,879,NULL,NULL
+0,27,F,880,2,Bisexual
+0,36,M,881,2,Heterosexual  / Straight
+0,48,F,882,NULL,NULL
+0,34,M,883,NULL,NULL
+0,20,M,884,NULL,NULL
+0,44,M,885,NULL,NULL
+0,26,M,886,NULL,NULL
+0,20,F,887,NULL,NULL
+0,34,F,888,NULL,NULL
+0,38,M,889,NULL,NULL
+0,34,F,890,NULL,NULL
+0,37,M,891,NULL,NULL
+0,28,M,892,NULL,NULL
+0,48,F,893,NULL,Heterosexual  / Straight
+0,33,M,894,NULL,NULL
+0,30,F,895,2,Heterosexual  / Straight
+0,40,F,896,NULL,Not Known
+0,50,M,897,NULL,NULL
+0,55,M,898,NULL,Not Known / Not recorded
+0,46,M,899,NULL,Prefer not to say
+0,44,F,900,NULL,NULL
+0,36,M,901,NULL,NULL
+0,58,F,902,NULL,NULL
+0,56,F,903,NULL,Prefer not to say
+0,23,F,904,NULL,NULL
+0,87,F,905,NULL,NULL
+0,47,F,906,2,Heterosexual  / Straight
+0,82,F,907,2,Heterosexual  / Straight
+0,21,F,908,NULL,NULL
+0,52,M,909,NULL,Heterosexual  / Straight
+0,28,F,910,NULL,NULL
+1,43,M,911,NULL,Heterosexual  / Straight
+0,44,M,912,NULL,NULL
+1,86,F,913,2,Heterosexual  / Straight
+0,65,F,914,NULL,Not Known / Not recorded
+0,33,F,915,NULL,NULL
+1,80,F,916,2,Heterosexual  / Straight
+0,32,F,917,2,Heterosexual  / Straight
+0,40,M,918,NULL,NULL
+0,49,F,919,NULL,NULL
+0,49,M,920,NULL,NULL
+0,21,F,921,NULL,Heterosexual  / Straight
+0,57,F,922,NULL,NULL
+0,57,F,923,NULL,NULL
+0,66,M,924,NULL,Not Known / Not recorded
+0,55,F,925,NULL,Not Known / Not recorded
+0,30,F,926,NULL,NULL
+0,34,M,927,NULL,Heterosexual  / Straight
+0,26,F,928,NULL,NULL
+0,58,M,929,NULL,NULL
+0,35,M,930,NULL,NULL
+0,30,M,931,NULL,NULL
+0,60,F,932,NULL,NULL
+0,28,F,933,NULL,Not Known / Not recorded
+0,46,F,934,NULL,Not Known / Not recorded
+0,38,F,935,NULL,NULL
+0,51,F,936,NULL,Not Known / Not recorded
+0,62,F,937,NULL,Not Known
+0,71,F,938,NULL,Not Known
+0,39,M,939,NULL,NULL
+0,36,M,940,2,Not Known / Not recorded
+0,30,M,941,NULL,NULL
+0,60,M,942,NULL,Not Known / Not recorded
+0,33,M,943,2,Heterosexual  / Straight
+0,31,M,944,NULL,NULL
+0,54,M,945,NULL,NULL
+0,37,F,946,NULL,NULL
+0,35,F,947,NULL,NULL
+0,22,M,948,NULL,NULL
+0,53,F,949,NULL,Not Known
+0,35,M,950,NULL,NULL
+0,27,M,951,NULL,NULL
+1,67,M,952,NULL,Not Known / Not recorded
+0,75,M,953,NULL,NULL
+0,49,F,954,NULL,NULL
+1,43,M,955,NULL,NULL
+0,52,F,956,NULL,NULL
+0,34,M,957,NULL,NULL
+0,20,M,958,NULL,NULL
+0,74,F,959,NULL,Not Known / Not recorded
+0,83,M,960,NULL,NULL
+0,27,F,961,2,Heterosexual  / Straight
+0,32,M,962,NULL,Not Known
+0,43,M,963,NULL,Prefer not to say
+0,43,M,964,NULL,NULL
+0,28,F,965,2,Not Known / Not recorded
+0,61,M,966,NULL,NULL
+1,34,F,967,NULL,NULL
+0,67,M,968,NULL,Heterosexual  / Straight
+0,34,M,969,NULL,Not Known / Not recorded
+0,70,F,970,NULL,Not Known / Not recorded
+0,58,F,971,2,Heterosexual  / Straight
+0,92,F,972,NULL,NULL
+0,40,M,973,NULL,Not Known
+0,23,M,974,2,Not Known / Not recorded
+0,30,F,975,NULL,NULL
+0,52,F,976,NULL,NULL
+0,49,M,977,NULL,NULL
+0,52,M,978,NULL,NULL
+0,33,M,979,NULL,NULL
+0,85,M,980,NULL,NULL
+0,33,M,981,NULL,Heterosexual  / Straight
+0,30,F,982,NULL,NULL
+1,90,M,983,NULL,Not Known
+0,85,M,984,NULL,Not Known / Not recorded
+0,40,M,985,NULL,NULL
+0,29,M,986,NULL,NULL
+0,52,M,987,NULL,NULL
+0,34,M,988,NULL,NULL
+0,28,F,989,NULL,NULL
+0,36,M,990,NULL,NULL
+0,32,M,991,NULL,NULL
+0,31,M,992,NULL,Heterosexual  / Straight
+0,74,M,993,NULL,NULL
+1,71,M,994,NULL,Heterosexual  / Straight
+0,20,M,995,NULL,NULL
+0,51,F,996,1,Prefer not to say
+0,71,M,997,2,Heterosexual  / Straight
+0,51,M,998,NULL,NULL
+0,36,M,999,NULL,Heterosexual  / Straight
+0,59,M,1000,NULL,NULL
+0,51,F,1001,NULL,NULL
+0,40,M,1002,NULL,NULL
+0,50,M,1003,NULL,NULL
+0,57,M,1004,2,Heterosexual  / Straight
+0,38,F,1005,NULL,Not Known
+0,71,F,1006,NULL,NULL
+0,53,M,1007,NULL,NULL
+0,69,F,1008,NULL,Not Known / Not recorded
+0,57,F,1009,NULL,Heterosexual  / Straight
+0,22,F,1010,NULL,NULL
+0,28,M,1011,2,Heterosexual  / Straight
+0,32,F,1012,NULL,NULL
+0,37,M,1013,NULL,Heterosexual  / Straight
+0,39,M,1014,NULL,NULL
+0,23,M,1015,NULL,NULL
+0,32,F,1016,NULL,Heterosexual  / Straight
+0,45,F,1017,NULL,Heterosexual  / Straight
+0,22,F,1018,2,Heterosexual  / Straight
+0,49,F,1019,NULL,NULL
+1,86,F,1020,NULL,NULL
+0,38,M,1021,NULL,NULL
+0,30,M,1022,NULL,NULL
+0,44,F,1023,NULL,Not Known / Not recorded
+0,58,M,1024,2,Not Known / Not recorded
+0,48,M,1025,NULL,NULL
+0,59,F,1026,NULL,Not Known / Not recorded
+0,38,F,1027,NULL,Prefer not to say
+0,43,F,1028,2,Heterosexual  / Straight
+0,45,M,1029,NULL,NULL
+0,55,F,1030,NULL,NULL
+0,56,F,1031,NULL,NULL
+0,29,M,1032,NULL,Not Known
+0,28,F,1033,NULL,Heterosexual  / Straight
+0,50,F,1034,NULL,NULL
+0,56,M,1035,NULL,NULL
+0,28,M,1036,NULL,NULL
+0,44,M,1037,NULL,NULL
+0,35,M,1038,NULL,NULL
+0,35,M,1039,NULL,NULL
+0,41,M,1040,NULL,NULL
+0,38,M,1041,NULL,NULL
+0,35,F,1042,NULL,NULL
+0,24,F,1043,NULL,NULL
+0,56,F,1044,NULL,Heterosexual  / Straight
+0,43,M,1045,NULL,NULL
+0,50,F,1046,2,Heterosexual  / Straight
+0,46,F,1047,NULL,NULL
+0,32,M,1048,NULL,NULL
+0,35,M,1049,NULL,NULL
+0,67,F,1050,NULL,NULL
+0,60,F,1051,NULL,Not Known / Not recorded
+0,42,M,1052,NULL,NULL
+0,27,F,1053,NULL,Heterosexual  / Straight
+0,34,M,1054,NULL,NULL
+0,48,M,1055,NULL,Heterosexual  / Straight
+0,77,F,1056,NULL,Heterosexual  / Straight
+0,56,F,1057,NULL,Heterosexual  / Straight
+0,34,M,1058,NULL,NULL
+0,47,M,1059,NULL,NULL
+0,36,M,1060,NULL,Not Known / Not recorded
+0,79,F,1061,2,Not Known / Not recorded
+0,40,F,1062,NULL,NULL
+0,42,M,1063,NULL,NULL
+0,36,M,1064,NULL,NULL
+0,41,F,1065,NULL,NULL
+0,70,F,1066,2,NULL
+0,58,F,1067,2,Heterosexual  / Straight
+0,40,F,1068,NULL,NULL
+0,76,F,1069,NULL,NULL
+0,33,M,1070,NULL,NULL
+0,31,F,1071,NULL,NULL
+0,60,F,1072,NULL,NULL
+0,51,F,1073,NULL,Not Known / Not recorded
+0,49,F,1074,NULL,NULL
+0,50,M,1075,NULL,Not Known / Not recorded
+0,52,F,1076,NULL,NULL
+0,85,F,1077,2,Heterosexual  / Straight
+0,37,M,1078,2,Heterosexual  / Straight
+0,56,M,1079,NULL,NULL
+0,58,F,1080,NULL,NULL
+0,31,M,1081,NULL,NULL
+0,63,F,1082,NULL,NULL
+0,46,M,1083,NULL,Heterosexual  / Straight
+0,75,F,1084,2,Heterosexual  / Straight
+1,28,M,1085,2,Heterosexual  / Straight
+1,81,M,1086,NULL,NULL
+0,27,F,1087,NULL,NULL
+0,56,M,1088,NULL,Heterosexual  / Straight
+0,34,M,1089,NULL,NULL
+0,61,M,1090,NULL,NULL
+0,25,F,1091,NULL,NULL
+0,50,F,1092,2,Not Known
+0,44,M,1093,NULL,NULL
+0,60,M,1094,NULL,NULL
+0,41,M,1095,NULL,NULL
+0,47,M,1096,NULL,NULL
+0,30,F,1097,NULL,NULL
+0,66,M,1098,NULL,NULL
+0,52,M,1099,NULL,NULL
+0,57,F,1100,NULL,NULL
+0,52,M,1101,2,Heterosexual  / Straight
+0,37,F,1102,2,Heterosexual  / Straight
+0,41,M,1103,2,Heterosexual  / Straight
+0,83,M,1104,NULL,Heterosexual  / Straight
+0,37,F,1105,NULL,NULL
+0,76,F,1106,NULL,Heterosexual  / Straight
+0,50,F,1107,NULL,Not Known / Not recorded
+0,72,F,1108,2,Heterosexual  / Straight
+0,65,F,1109,NULL,NULL
+0,68,M,1110,NULL,NULL
+0,57,M,1111,NULL,NULL
+0,82,F,1112,NULL,Heterosexual  / Straight
+0,45,M,1113,NULL,NULL
+0,35,F,1114,NULL,Not Known / Not recorded
+0,47,M,1115,NULL,NULL
+0,53,M,1116,NULL,NULL
+0,75,F,1117,NULL,NULL
+0,41,M,1118,NULL,Prefer not to say
+0,20,F,1119,NULL,NULL
+0,33,M,1120,NULL,NULL
+0,90,F,1121,NULL,Not Known / Not recorded
+0,29,F,1122,NULL,Not Known / Not recorded
+0,80,M,1123,NULL,NULL
+0,29,F,1124,NULL,NULL
+0,44,M,1125,NULL,NULL
+0,36,F,1126,NULL,Not Known / Not recorded
+0,82,F,1127,NULL,NULL
+0,38,F,1128,NULL,NULL
+0,58,M,1129,NULL,NULL
+0,81,F,1130,2,Heterosexual  / Straight
+0,50,F,1131,2,Other
+1,29,F,1132,NULL,Heterosexual  / Straight
+0,86,F,1133,NULL,NULL
+0,32,F,1134,NULL,NULL
+0,48,F,1135,2,Heterosexual  / Straight
+0,34,M,1136,2,Heterosexual  / Straight
+1,83,F,1137,NULL,Not Known / Not recorded
+0,29,M,1138,2,Heterosexual  / Straight
+0,64,M,1139,NULL,NULL
+0,64,F,1140,NULL,Not Known / Not recorded
+0,28,M,1141,NULL,Not Known / Not recorded
+0,31,M,1142,NULL,NULL
+0,32,F,1143,NULL,NULL
+0,27,M,1144,NULL,Heterosexual  / Straight
+0,29,F,1145,NULL,NULL
+0,37,M,1146,2,Prefer not to say
+0,34,M,1147,NULL,NULL
+0,56,M,1148,NULL,NULL
+0,36,M,1149,NULL,NULL
+0,26,M,1150,NULL,NULL
+0,71,F,1151,2,Heterosexual  / Straight
+0,76,F,1152,2,Heterosexual  / Straight
+0,68,F,1153,NULL,Heterosexual  / Straight
+0,56,F,1154,NULL,NULL
+0,32,F,1155,NULL,Not Known / Not recorded
+0,21,M,1156,NULL,NULL
+0,53,F,1157,NULL,NULL
+0,32,F,1158,NULL,NULL
+0,50,M,1159,NULL,NULL
+0,35,F,1160,NULL,NULL
+1,80,M,1161,NULL,NULL
+0,74,M,1162,2,Not Known / Not recorded
+0,37,M,1163,NULL,Heterosexual  / Straight
+0,27,F,1164,2,Not Known / Not recorded
+0,62,M,1165,NULL,Not Known
+0,33,F,1166,NULL,NULL
+0,65,F,1167,NULL,Heterosexual  / Straight
+0,31,F,1168,NULL,NULL
+0,49,F,1169,NULL,Heterosexual  / Straight
+0,77,M,1170,NULL,NULL
+0,50,F,1171,NULL,Heterosexual  / Straight
+1,40,F,1172,NULL,NULL
+0,48,F,1173,NULL,NULL
+0,59,M,1174,NULL,NULL
+0,47,M,1175,NULL,NULL
+1,53,M,1176,NULL,NULL
+0,62,M,1177,NULL,Heterosexual  / Straight
+0,28,F,1178,2,Heterosexual  / Straight
+0,77,F,1179,NULL,Not Known / Not recorded
+0,35,F,1180,NULL,Heterosexual  / Straight
+0,32,F,1181,NULL,NULL
+0,77,M,1182,NULL,Not Known / Not recorded
+0,69,M,1183,NULL,Heterosexual  / Straight
+0,39,M,1184,NULL,NULL
+0,26,M,1185,NULL,NULL
+0,79,M,1186,NULL,NULL
+0,27,M,1187,NULL,Not Known
+0,55,M,1188,NULL,Heterosexual  / Straight
+0,58,M,1189,NULL,NULL
+0,86,F,1190,NULL,Not Known / Not recorded
+0,31,M,1191,NULL,NULL
+0,33,M,1192,NULL,NULL
+0,63,M,1193,NULL,NULL
+0,28,F,1194,NULL,Not Known / Not recorded
+0,49,M,1195,NULL,NULL
+0,36,F,1196,2,Heterosexual  / Straight
+0,44,F,1197,NULL,NULL
+0,40,F,1198,NULL,Not Known
+0,83,M,1199,NULL,NULL
+0,81,F,1200,2,NULL
+0,59,M,1201,NULL,Not Known
+0,29,F,1202,2,Heterosexual  / Straight
+0,28,M,1203,NULL,NULL
+0,39,M,1204,NULL,NULL
+0,72,M,1205,NULL,Heterosexual  / Straight
+0,54,M,1206,NULL,NULL
+0,37,F,1207,NULL,Not Known / Not recorded
+0,55,M,1208,NULL,NULL
+0,65,F,1209,NULL,NULL
+0,66,F,1210,NULL,Prefer not to say
+0,47,F,1211,NULL,Not Known / Not recorded
+0,58,F,1212,NULL,Heterosexual  / Straight
+0,20,F,1213,NULL,NULL
+0,21,M,1214,NULL,NULL
+0,33,M,1215,NULL,NULL
+0,46,M,1216,NULL,NULL
+0,44,M,1217,NULL,NULL
+0,53,M,1218,NULL,Heterosexual  / Straight
+0,31,M,1219,NULL,NULL
+0,46,M,1220,NULL,Not Known / Not recorded
+0,41,M,1221,NULL,NULL
+0,71,M,1222,NULL,NULL
+0,68,F,1223,NULL,NULL
+0,27,M,1224,NULL,NULL
+0,44,M,1225,NULL,NULL
+0,69,F,1226,NULL,NULL
+0,41,M,1227,NULL,NULL
+0,33,M,1228,NULL,NULL
+0,58,M,1229,NULL,NULL
+0,30,F,1230,NULL,NULL
+0,47,M,1231,NULL,NULL
+0,30,F,1232,NULL,NULL
+0,42,M,1233,NULL,NULL
+0,31,M,1234,NULL,Heterosexual  / Straight
+0,60,M,1235,NULL,NULL
+0,38,F,1236,NULL,NULL
+0,18,F,1237,2,Heterosexual  / Straight
+0,84,F,1238,NULL,NULL
+0,62,F,1239,NULL,Not Known / Not recorded
+0,60,F,1240,NULL,NULL
+0,37,M,1241,NULL,NULL
+0,39,M,1242,NULL,NULL
+1,40,M,1243,NULL,NULL
+0,42,M,1244,NULL,NULL
+0,36,F,1245,NULL,NULL
+0,60,M,1246,NULL,Not Known / Not recorded
+1,50,M,1247,2,Prefer not to say
+0,61,F,1248,2,Heterosexual  / Straight
+0,39,F,1249,NULL,NULL
+0,31,F,1250,NULL,Not Known / Not recorded
+0,34,M,1251,NULL,NULL
+0,41,M,1252,NULL,NULL
+0,37,M,1253,NULL,NULL
+0,34,F,1254,NULL,NULL
+0,36,F,1255,NULL,Not Known / Not recorded
+0,42,M,1256,NULL,NULL
+0,29,F,1257,NULL,NULL
+0,49,F,1258,NULL,NULL
+0,65,F,1259,NULL,NULL
+0,27,M,1260,NULL,NULL
+0,76,M,1261,2,Heterosexual  / Straight
+0,47,F,1262,NULL,Not Known / Not recorded
+0,28,F,1263,NULL,Not Known / Not recorded
+0,19,F,1264,NULL,NULL
+0,34,F,1265,NULL,NULL
+0,46,M,1266,NULL,NULL
+0,26,F,1267,NULL,NULL
+0,30,F,1268,NULL,Heterosexual  / Straight
+0,50,F,1269,NULL,Not Known
+0,22,F,1270,NULL,Heterosexual  / Straight
+0,31,F,1271,NULL,NULL
+0,83,F,1272,2,Prefer not to say
+0,26,M,1273,NULL,NULL
+0,35,M,1274,NULL,NULL
+0,38,M,1275,2,Not Known / Not recorded
+0,49,M,1276,NULL,NULL
+0,80,F,1277,NULL,NULL
+0,54,M,1278,NULL,NULL
+0,49,M,1279,NULL,Gay / Lesbian
+0,76,F,1280,NULL,NULL
+0,26,M,1281,2,Heterosexual  / Straight
+0,49,F,1282,NULL,Heterosexual  / Straight
+0,29,M,1283,NULL,Not Known / Not recorded
+0,32,M,1284,NULL,NULL
+0,39,M,1285,NULL,NULL
+0,45,M,1286,NULL,Heterosexual  / Straight
+0,30,M,1287,NULL,NULL
+0,66,M,1288,2,Heterosexual  / Straight
+0,34,M,1289,NULL,NULL
+0,36,M,1290,NULL,Heterosexual  / Straight
+0,85,F,1291,NULL,Heterosexual  / Straight
+0,31,M,1292,NULL,NULL
+0,58,F,1293,2,Heterosexual  / Straight
+0,51,F,1294,NULL,Heterosexual  / Straight
+0,48,M,1295,NULL,Not Known / Not recorded
+0,45,F,1296,2,Prefer not to say
+0,46,F,1297,2,Not Known / Not recorded
+0,41,F,1298,NULL,NULL
+0,41,F,1299,NULL,NULL
+0,28,M,1300,NULL,NULL
+0,62,F,1301,NULL,NULL
+0,94,M,1302,NULL,Not Known / Not recorded
+0,39,M,1303,NULL,NULL
+0,47,F,1304,NULL,Heterosexual  / Straight
+0,26,M,1305,NULL,NULL
+0,34,F,1306,NULL,NULL
+0,39,F,1307,NULL,NULL
+0,49,M,1308,NULL,Not Known / Not recorded
+0,42,M,1309,NULL,NULL
+0,41,M,1310,2,Heterosexual  / Straight
+0,20,M,1311,NULL,NULL
+0,66,F,1312,NULL,Heterosexual  / Straight
+0,28,M,1313,NULL,Not Known / Not recorded
+0,19,M,1314,2,NULL
+0,88,M,1315,NULL,Not Known / Not recorded
+0,38,M,1316,NULL,NULL
+0,31,M,1317,2,Heterosexual  / Straight
+0,41,M,1318,NULL,NULL
+1,78,M,1319,NULL,NULL
+1,28,F,1320,NULL,Not Known / Not recorded
+1,75,F,1321,2,Heterosexual  / Straight
+0,35,F,1322,2,Heterosexual  / Straight
+0,49,M,1323,NULL,NULL
+0,28,M,1324,2,Heterosexual  / Straight
+0,55,F,1325,NULL,NULL
+0,54,F,1326,NULL,Heterosexual  / Straight
+0,33,M,1327,NULL,NULL
+0,44,F,1328,NULL,NULL
+0,87,F,1329,NULL,Not Known / Not recorded
+0,63,F,1330,2,Heterosexual  / Straight
+0,64,M,1331,NULL,NULL
+0,53,F,1332,NULL,NULL
+0,87,M,1333,NULL,Heterosexual  / Straight
+0,36,F,1334,NULL,NULL
+0,41,F,1335,2,Heterosexual  / Straight
+0,48,M,1336,NULL,NULL
+0,20,F,1337,NULL,NULL
+0,32,M,1338,NULL,NULL
+0,46,F,1339,NULL,NULL
+0,71,F,1340,2,Heterosexual  / Straight
+0,46,NULL,1341,NULL,Heterosexual  / Straight
+0,27,M,1342,2,Heterosexual  / Straight
+0,59,F,1343,NULL,NULL
+0,46,M,1344,2,Not Known / Not recorded
+0,39,M,1345,NULL,NULL
+0,50,M,1346,2,Heterosexual  / Straight
+0,51,M,1347,NULL,NULL
+0,67,M,1348,NULL,NULL
+0,44,F,1349,NULL,NULL
+0,42,F,1350,NULL,NULL
+0,41,M,1351,NULL,NULL
+0,28,F,1352,2,Not Known / Not recorded
+0,52,M,1353,NULL,NULL
+0,38,M,1354,NULL,NULL
+0,53,M,1355,NULL,NULL
+0,35,F,1356,2,Not Known / Not recorded
+0,46,M,1357,NULL,Not Known / Not recorded
+0,57,M,1358,NULL,NULL
+0,33,F,1359,NULL,Not Known / Not recorded
+0,51,M,1360,NULL,NULL
+0,53,F,1361,NULL,Heterosexual  / Straight
+0,55,F,1362,NULL,NULL
+0,50,F,1363,NULL,NULL
+0,44,F,1364,NULL,Prefer not to say
+0,92,M,1365,NULL,Heterosexual  / Straight
+0,33,M,1366,NULL,NULL
+0,50,M,1367,NULL,NULL
+0,66,F,1368,2,Heterosexual  / Straight
+0,64,M,1369,NULL,NULL
+0,22,M,1370,NULL,NULL
+0,53,F,1371,NULL,NULL
+0,52,F,1372,NULL,Not Known / Not recorded
+0,53,F,1373,NULL,NULL
+0,42,M,1374,NULL,NULL
+0,61,F,1375,NULL,NULL
+0,52,F,1376,NULL,NULL
+0,46,M,1377,NULL,NULL
+1,79,M,1378,NULL,Not Known / Not recorded
+0,29,F,1379,NULL,NULL
+0,63,F,1380,NULL,Not Known / Not recorded
+0,52,M,1381,NULL,NULL
+0,35,M,1382,NULL,Not Known / Not recorded
+0,39,M,1383,NULL,NULL
+0,39,M,1384,NULL,NULL
+0,30,M,1385,2,Heterosexual  / Straight
+0,45,M,1386,NULL,NULL
+0,27,M,1387,NULL,NULL
+1,91,F,1388,NULL,NULL
+0,43,M,1389,NULL,NULL
+0,49,F,1390,NULL,NULL
+0,77,M,1391,NULL,NULL
+0,65,F,1392,NULL,NULL
+0,27,F,1393,NULL,Bisexual
+0,45,F,1394,NULL,NULL
+0,38,F,1395,NULL,NULL
+0,47,F,1396,NULL,NULL
+0,70,F,1397,2,Heterosexual  / Straight
+0,52,F,1398,NULL,Heterosexual  / Straight
+0,62,M,1399,NULL,Not Known / Not recorded
+0,75,F,1400,NULL,NULL
+0,33,M,1401,NULL,NULL
+0,56,F,1402,NULL,NULL
+0,27,M,1403,NULL,Not Known / Not recorded
+0,54,M,1404,NULL,Heterosexual  / Straight
+0,82,F,1405,NULL,Heterosexual  / Straight
+0,50,F,1406,NULL,NULL
+0,39,M,1407,NULL,Not Known / Not recorded
+0,27,M,1408,NULL,NULL
+0,54,M,1409,2,Heterosexual  / Straight
+0,43,F,1410,NULL,NULL
+0,57,M,1411,NULL,NULL
+0,35,M,1412,NULL,NULL
+0,27,M,1413,NULL,Prefer not to say
+0,43,F,1414,NULL,NULL
+1,95,F,1415,NULL,NULL
+0,46,M,1416,NULL,NULL
+0,31,M,1417,NULL,NULL
+0,64,M,1418,NULL,NULL
+1,62,M,1419,NULL,NULL
+0,40,M,1420,2,Heterosexual  / Straight
+0,69,F,1421,NULL,NULL
+0,28,F,1422,NULL,Heterosexual  / Straight
+0,50,F,1423,NULL,Heterosexual  / Straight
+0,84,M,1424,NULL,Not Known / Not recorded
+0,89,F,1425,NULL,Not Known / Not recorded
+0,47,M,1426,NULL,NULL
+0,54,F,1427,NULL,NULL
+0,66,F,1428,2,Heterosexual  / Straight
+0,29,M,1429,NULL,NULL
+0,29,M,1430,NULL,Not Known / Not recorded
+0,45,F,1431,NULL,Heterosexual  / Straight
+0,83,M,1432,NULL,NULL
+0,31,F,1433,2,Heterosexual  / Straight
+0,29,M,1434,NULL,NULL
+0,48,M,1435,2,Heterosexual  / Straight
+0,33,M,1436,NULL,NULL
+0,51,F,1437,NULL,NULL
+0,80,F,1438,2,Heterosexual  / Straight
+0,35,M,1439,NULL,NULL
+0,55,M,1440,NULL,NULL
+1,61,F,1441,NULL,NULL
+0,41,M,1442,NULL,NULL
+0,66,F,1443,NULL,Not Known / Not recorded
+0,45,M,1444,NULL,NULL
+0,50,M,1445,NULL,NULL
+0,48,F,1446,NULL,NULL
+0,33,M,1447,NULL,Not Known / Not recorded
+0,39,F,1448,NULL,NULL
+0,58,F,1449,2,Heterosexual  / Straight
+0,49,M,1450,NULL,NULL
+0,32,F,1451,NULL,Heterosexual  / Straight
+0,39,F,1452,NULL,NULL
+0,53,F,1453,NULL,Heterosexual  / Straight
+0,28,M,1454,NULL,NULL
+1,31,M,1455,2,Not Known
+0,28,M,1456,2,Heterosexual  / Straight
+0,27,F,1457,2,Not Known / Not recorded
+0,35,M,1458,NULL,Not Known / Not recorded
+0,38,F,1459,NULL,Heterosexual  / Straight
+0,30,M,1460,NULL,NULL
+0,59,M,1461,2,Heterosexual  / Straight
+0,39,M,1462,NULL,NULL
+0,37,M,1463,NULL,Not Known / Not recorded
+0,50,F,1464,NULL,NULL
+0,46,M,1465,NULL,NULL
+0,38,M,1466,NULL,NULL
+0,83,F,1467,NULL,NULL
+0,22,M,1468,NULL,NULL
+0,41,M,1469,NULL,Heterosexual  / Straight
+0,29,M,1470,2,Not Known
+0,36,M,1471,NULL,NULL
+0,62,M,1472,NULL,NULL
+0,59,M,1473,2,Prefer not to say
+0,27,M,1474,NULL,NULL
+0,32,M,1475,NULL,Not Known / Not recorded
+0,52,F,1476,NULL,NULL
+0,45,M,1477,NULL,NULL
+0,38,M,1478,NULL,Heterosexual  / Straight
+0,35,M,1479,NULL,NULL
+0,57,F,1480,2,Heterosexual  / Straight
+0,74,F,1481,NULL,Heterosexual  / Straight
+0,46,F,1482,NULL,NULL
+0,42,M,1483,2,Heterosexual  / Straight
+0,33,F,1484,NULL,Heterosexual  / Straight
+0,50,F,1485,NULL,Heterosexual  / Straight
+0,47,F,1486,NULL,NULL
+0,67,F,1487,NULL,Not Known / Not recorded
+0,70,M,1488,2,Not Known
+0,55,F,1489,NULL,Not Known / Not recorded
+0,29,F,1490,NULL,Heterosexual  / Straight
+0,83,F,1491,NULL,Heterosexual  / Straight
+0,52,F,1492,NULL,Not Known / Not recorded
+0,59,F,1493,NULL,NULL
+0,71,F,1494,NULL,NULL
+0,27,M,1495,NULL,NULL
+0,35,M,1496,2,Bisexual
+0,62,F,1497,2,Not Known / Not recorded
+0,40,M,1498,2,Not Known / Not recorded
+0,19,M,1499,NULL,NULL
+0,85,M,1500,NULL,NULL
+0,41,M,1501,NULL,NULL
+0,55,M,1502,2,NULL
+0,59,F,1503,2,Heterosexual  / Straight
+0,82,F,1504,2,Heterosexual  / Straight
+0,42,F,1505,NULL,NULL
+0,56,M,1506,NULL,Not Known / Not recorded
+0,44,M,1507,NULL,NULL
+0,54,F,1508,NULL,Not Known
+0,46,M,1509,2,Heterosexual  / Straight
+0,68,M,1510,NULL,NULL
+0,52,F,1511,NULL,NULL
+0,84,M,1512,2,Not Known / Not recorded
+0,40,F,1513,NULL,NULL
+0,34,F,1514,NULL,Heterosexual  / Straight
+0,29,M,1515,2,Not Known / Not recorded
+0,74,F,1516,NULL,NULL
+0,43,M,1517,NULL,NULL
+1,63,F,1518,NULL,NULL
+0,38,M,1519,NULL,Not Known / Not recorded
+0,34,F,1520,NULL,Heterosexual  / Straight
+0,89,F,1521,NULL,NULL
+0,54,M,1522,NULL,NULL
+0,48,M,1523,NULL,NULL
+0,34,F,1524,NULL,Not Known / Not recorded
+0,71,F,1525,NULL,NULL
+0,46,M,1526,NULL,NULL
+0,43,F,1527,NULL,NULL
+0,28,F,1528,NULL,NULL
+0,64,F,1529,NULL,Not Known / Not recorded
+0,47,M,1530,NULL,NULL
+0,25,F,1531,NULL,NULL
+0,42,M,1532,2,Heterosexual  / Straight
+0,37,F,1533,NULL,Not Known / Not recorded
+0,31,F,1534,NULL,NULL
+0,75,M,1535,NULL,Heterosexual  / Straight
+0,51,F,1536,NULL,NULL
+0,48,F,1537,NULL,NULL
+0,77,F,1538,NULL,NULL
+0,63,F,1539,NULL,Heterosexual  / Straight
+0,34,M,1540,NULL,NULL
+0,41,M,1541,NULL,NULL
+0,60,M,1542,NULL,NULL
+0,47,M,1543,2,Heterosexual  / Straight
+0,52,F,1544,NULL,Not Known / Not recorded
+0,28,F,1545,2,Heterosexual  / Straight
+0,70,M,1546,NULL,NULL
+0,41,M,1547,2,Heterosexual  / Straight
+0,34,M,1548,NULL,NULL
+0,54,F,1549,NULL,NULL
+0,19,M,1550,NULL,NULL
+0,43,M,1551,NULL,NULL
+0,70,F,1552,NULL,NULL
+0,27,M,1553,NULL,Heterosexual  / Straight
+0,58,M,1554,NULL,NULL
+0,28,F,1555,NULL,NULL
+1,72,F,1556,2,Heterosexual  / Straight
+0,31,M,1557,NULL,Not Known / Not recorded
+0,36,F,1558,NULL,NULL
+0,42,M,1559,NULL,NULL
+1,79,M,1560,NULL,Not Known / Not recorded
+0,62,F,1561,NULL,Heterosexual  / Straight
+0,41,M,1562,NULL,NULL
+0,26,F,1563,NULL,Heterosexual  / Straight
+0,73,F,1564,2,Heterosexual  / Straight
+0,92,F,1565,NULL,NULL
+0,54,M,1566,NULL,NULL
+0,70,M,1567,NULL,Not Known / Not recorded
+0,31,M,1568,NULL,NULL
+0,36,F,1569,NULL,NULL
+0,56,F,1570,NULL,NULL
+0,51,M,1571,NULL,NULL
+0,62,M,1572,NULL,NULL
+0,32,M,1573,NULL,NULL
+0,35,M,1574,NULL,Not Known / Not recorded
+1,47,M,1575,NULL,NULL
+0,34,F,1576,NULL,NULL
+0,40,M,1577,NULL,NULL
+0,55,M,1578,2,Heterosexual  / Straight
+0,29,F,1579,NULL,Heterosexual  / Straight
+0,41,M,1580,NULL,NULL
+0,79,F,1581,NULL,Heterosexual  / Straight
+0,76,F,1582,NULL,NULL
+0,32,M,1583,NULL,NULL
+0,64,M,1584,2,Heterosexual  / Straight
+0,51,F,1585,NULL,NULL
+0,59,M,1586,NULL,NULL
+0,42,F,1587,NULL,Not Known / Not recorded
+0,65,F,1588,2,Heterosexual  / Straight
+0,29,M,1589,NULL,NULL
+0,56,F,1590,2,Heterosexual  / Straight
+0,30,F,1591,2,Prefer not to say
+0,45,M,1592,NULL,NULL
+0,56,M,1593,2,Not Known
+0,53,F,1594,NULL,Not Known / Not recorded
+0,59,F,1595,2,Heterosexual  / Straight
+0,18,M,1596,NULL,NULL
+0,70,M,1597,NULL,Heterosexual  / Straight
+0,35,F,1598,NULL,NULL
+0,29,M,1599,NULL,NULL
+0,59,F,1600,2,Heterosexual  / Straight
+1,89,M,1601,NULL,NULL
+0,35,F,1602,NULL,NULL
+0,83,F,1603,NULL,Not Known / Not recorded
+0,50,M,1604,2,Heterosexual  / Straight
+0,95,M,1605,NULL,NULL
+0,50,M,1606,NULL,NULL
+0,27,F,1607,NULL,NULL
+0,37,M,1608,NULL,NULL
+0,64,M,1609,2,Heterosexual  / Straight
+0,78,F,1610,NULL,Prefer not to say
+0,40,F,1611,NULL,Bisexual
+0,63,M,1612,NULL,NULL
+0,34,M,1613,2,Heterosexual  / Straight
+1,52,F,1614,NULL,NULL
+0,73,M,1615,NULL,NULL
+0,27,F,1616,NULL,Not Known / Not recorded
+0,50,M,1617,NULL,Not Known / Not recorded
+0,20,M,1618,NULL,NULL
+0,27,F,1619,NULL,Heterosexual  / Straight
+0,62,F,1620,NULL,NULL
+0,42,M,1621,NULL,NULL
+0,31,M,1622,NULL,NULL
+0,71,F,1623,NULL,NULL
+0,68,F,1624,NULL,Not Known / Not recorded
+0,43,M,1625,2,Heterosexual  / Straight
+0,47,M,1626,NULL,NULL
+0,31,F,1627,NULL,Bisexual
+0,32,M,1628,NULL,Not Known / Not recorded
+0,46,F,1629,NULL,NULL
+0,26,M,1630,NULL,NULL
+0,37,F,1631,NULL,NULL
+0,28,F,1632,NULL,NULL
+1,84,M,1633,NULL,Not Known
+0,34,F,1634,2,Heterosexual  / Straight
+0,44,M,1635,NULL,NULL
+0,44,M,1636,NULL,NULL
+0,87,M,1637,NULL,NULL
+0,34,M,1638,NULL,NULL
+0,42,M,1639,2,Heterosexual  / Straight
+0,42,M,1640,NULL,Heterosexual  / Straight
+0,34,F,1641,NULL,NULL
+0,41,M,1642,NULL,NULL
+0,51,F,1643,NULL,NULL
+0,27,F,1644,NULL,NULL
+0,37,F,1645,NULL,NULL
+0,44,F,1646,NULL,NULL
+0,79,F,1647,NULL,Not Known / Not recorded
+0,36,M,1648,NULL,NULL
+0,38,M,1649,NULL,NULL
+0,79,F,1650,2,Heterosexual  / Straight
+0,37,M,1651,NULL,NULL
+1,85,F,1652,NULL,NULL
+1,93,M,1653,NULL,Not Known / Not recorded
+0,64,M,1654,NULL,Heterosexual  / Straight
+0,27,M,1655,NULL,NULL
+0,38,M,1656,NULL,NULL
+0,39,M,1657,NULL,NULL
+0,31,M,1658,NULL,NULL
+0,38,M,1659,NULL,NULL
+0,40,F,1660,NULL,NULL
+1,85,M,1661,NULL,Heterosexual  / Straight
+0,69,F,1662,NULL,Not Known / Not recorded
+0,66,M,1663,2,Heterosexual  / Straight
+0,38,F,1664,2,Not Known
+0,76,M,1665,NULL,NULL
+0,49,F,1666,NULL,Heterosexual  / Straight
+0,53,M,1667,NULL,NULL
+0,54,F,1668,NULL,NULL
+0,30,F,1669,2,Not Known
+0,55,M,1670,2,Not Known / Not recorded
+0,33,F,1671,NULL,NULL
+0,76,F,1672,NULL,Heterosexual  / Straight
+0,47,F,1673,NULL,NULL
+1,53,M,1674,NULL,NULL
+0,46,M,1675,NULL,NULL
+0,58,F,1676,NULL,Heterosexual  / Straight
+0,43,F,1677,2,Heterosexual  / Straight
+0,30,M,1678,2,Heterosexual  / Straight
+0,20,M,1679,NULL,NULL
+0,28,M,1680,NULL,Not Known / Not recorded
+0,39,M,1681,NULL,NULL
+0,27,M,1682,NULL,NULL
+0,45,F,1683,NULL,Not Known
+0,64,M,1684,NULL,NULL
+0,46,F,1685,NULL,NULL
+0,28,M,1686,2,Prefer not to say
+0,38,F,1687,NULL,NULL
+0,37,F,1688,NULL,Heterosexual  / Straight
+0,45,F,1689,NULL,NULL
+0,56,F,1690,2,Heterosexual  / Straight
+0,35,M,1691,NULL,NULL
+0,31,F,1692,NULL,NULL
+0,71,M,1693,2,Heterosexual  / Straight
+0,30,M,1694,NULL,Not Known / Not recorded
+0,56,M,1695,NULL,NULL
+0,43,F,1696,NULL,Heterosexual  / Straight
+0,37,F,1697,2,Heterosexual  / Straight
+0,31,F,1698,NULL,NULL
+0,31,F,1699,NULL,Heterosexual  / Straight
+0,49,M,1700,NULL,NULL
+0,95,F,1701,2,Heterosexual  / Straight
+0,38,M,1702,2,Heterosexual  / Straight
+0,52,M,1703,NULL,Heterosexual  / Straight
+0,53,M,1704,NULL,NULL
+0,33,F,1705,NULL,Heterosexual  / Straight
+0,46,M,1706,2,Heterosexual  / Straight
+0,72,F,1707,NULL,NULL
+0,40,M,1708,NULL,NULL
+0,46,F,1709,2,Heterosexual  / Straight
+0,37,M,1710,NULL,NULL
+0,71,F,1711,2,Heterosexual  / Straight
+0,27,M,1712,2,Heterosexual  / Straight
+0,74,M,1713,NULL,NULL
+0,42,M,1714,NULL,Not Known / Not recorded
+0,53,M,1715,NULL,NULL
+0,30,M,1716,NULL,NULL
+0,38,M,1717,NULL,NULL
+0,45,M,1718,NULL,NULL
+0,38,M,1719,NULL,Not Known / Not recorded
+0,61,M,1720,NULL,Not Known / Not recorded
+0,25,M,1721,2,Heterosexual  / Straight
+0,52,F,1722,NULL,Not Known
+0,23,F,1723,NULL,NULL
+0,70,M,1724,NULL,NULL
+0,38,M,1725,2,Heterosexual  / Straight
+0,27,M,1726,NULL,NULL
+0,36,M,1727,NULL,NULL
+0,49,F,1728,NULL,NULL
+0,71,F,1729,NULL,Heterosexual  / Straight
+0,33,F,1730,NULL,NULL
+0,31,M,1731,NULL,Not Known / Not recorded
+0,23,M,1732,NULL,NULL
+0,66,F,1733,NULL,Prefer not to say
+0,32,M,1734,NULL,NULL
+0,30,M,1735,NULL,NULL
+0,81,F,1736,NULL,NULL
+1,80,F,1737,2,Heterosexual  / Straight
+0,55,F,1738,NULL,NULL
+0,32,F,1739,NULL,Gay / Lesbian
+0,49,M,1740,NULL,Not Known / Not recorded
+0,42,F,1741,NULL,NULL
+0,62,F,1742,NULL,Heterosexual  / Straight
+0,37,M,1743,NULL,NULL
+0,52,F,1744,NULL,NULL
+0,47,M,1745,NULL,NULL
+0,54,F,1746,NULL,Not Known / Not recorded
+0,28,F,1747,NULL,NULL
+0,38,F,1748,NULL,NULL
+0,53,M,1749,NULL,Not Known / Not recorded
+0,38,F,1750,NULL,NULL
+0,21,F,1751,NULL,NULL
+0,49,M,1752,NULL,NULL
+0,26,F,1753,NULL,NULL
+0,28,M,1754,NULL,NULL
+1,73,M,1755,NULL,NULL
+0,80,M,1756,NULL,NULL
+0,26,M,1757,2,Heterosexual  / Straight
+1,39,F,1758,NULL,Heterosexual  / Straight
+0,29,M,1759,NULL,NULL
+0,24,M,1760,NULL,NULL
+0,45,M,1761,NULL,NULL
+0,26,F,1762,NULL,NULL
+0,29,M,1763,NULL,NULL
+0,23,F,1764,2,Heterosexual  / Straight
+0,22,F,1765,NULL,NULL
+0,47,M,1766,2,Not Known
+0,52,F,1767,NULL,NULL
+0,44,F,1768,NULL,Not Known / Not recorded
+0,47,F,1769,NULL,NULL
+0,44,M,1770,NULL,Gay / Lesbian
+0,68,M,1771,NULL,NULL
+0,67,F,1772,NULL,NULL
+0,47,F,1773,NULL,NULL
+1,83,F,1774,NULL,NULL
+0,27,M,1775,2,Heterosexual  / Straight
+0,86,F,1776,NULL,Not Known / Not recorded
+0,42,M,1777,NULL,NULL
+1,73,F,1778,NULL,Heterosexual  / Straight
+0,53,M,1779,NULL,Not Known
+0,30,M,1780,NULL,NULL
+0,22,F,1781,NULL,NULL
+0,28,M,1782,NULL,NULL
+0,70,M,1783,NULL,NULL
+0,29,M,1784,NULL,NULL
+0,44,F,1785,NULL,Heterosexual  / Straight
+0,30,M,1786,NULL,NULL
+0,43,F,1787,NULL,NULL
+0,39,F,1788,NULL,NULL
+0,44,F,1789,NULL,NULL
+0,30,F,1790,NULL,NULL
+0,47,M,1791,NULL,NULL
+0,34,F,1792,NULL,Not Known / Not recorded
+0,61,F,1793,NULL,Heterosexual  / Straight
+0,48,M,1794,NULL,NULL
+0,65,M,1795,NULL,NULL
+0,54,M,1796,NULL,Not Known / Not recorded
+0,81,F,1797,NULL,Heterosexual  / Straight
+1,44,M,1798,NULL,NULL
+0,75,M,1799,NULL,NULL
+0,50,M,1800,2,Not Known / Not recorded
+0,23,F,1801,2,Heterosexual  / Straight
+0,59,F,1802,NULL,NULL
+0,45,M,1803,NULL,NULL
+0,24,F,1804,NULL,NULL
+0,66,M,1805,NULL,NULL
+0,36,F,1806,NULL,NULL
+0,47,F,1807,NULL,Not Known / Not recorded
+0,57,F,1808,2,Heterosexual  / Straight
+0,22,M,1809,NULL,NULL
+0,35,F,1810,NULL,NULL
+0,37,M,1811,2,Heterosexual  / Straight
+0,69,F,1812,NULL,Not Known / Not recorded
+0,56,M,1813,NULL,NULL
+0,38,M,1814,NULL,NULL
+0,45,F,1815,NULL,NULL
+0,46,M,1816,NULL,Heterosexual  / Straight
+0,34,F,1817,NULL,NULL
+0,59,F,1818,NULL,Heterosexual  / Straight
+0,33,M,1819,NULL,NULL
+0,51,F,1820,NULL,Heterosexual  / Straight
+0,56,M,1821,NULL,NULL
+0,45,M,1822,2,Prefer not to say
+0,29,F,1823,NULL,Not Known / Not recorded
+0,33,F,1824,NULL,Bisexual
+0,39,F,1825,NULL,Not Known / Not recorded
+0,37,F,1826,NULL,Not Known / Not recorded
+0,60,M,1827,NULL,Heterosexual  / Straight
+0,59,M,1828,2,Heterosexual  / Straight
+0,45,M,1829,NULL,Heterosexual  / Straight
+0,71,M,1830,2,Heterosexual  / Straight
+0,70,F,1831,NULL,Not Known / Not recorded
+0,30,M,1832,NULL,NULL
+1,34,M,1833,NULL,NULL
+0,31,F,1834,2,Heterosexual  / Straight
+0,55,F,1835,2,Heterosexual  / Straight
+0,30,M,1836,NULL,NULL
+0,29,F,1837,NULL,NULL
+0,31,F,1838,NULL,NULL
+0,31,M,1839,NULL,NULL
+0,76,M,1840,NULL,Heterosexual  / Straight
+0,53,M,1841,NULL,Heterosexual  / Straight
+0,75,F,1842,1,Heterosexual  / Straight
+0,36,F,1843,NULL,NULL
+0,82,M,1844,NULL,NULL
+0,32,F,1845,NULL,NULL
+1,90,F,1846,NULL,NULL
+0,31,F,1847,NULL,NULL
+0,54,M,1848,NULL,Prefer not to say
+0,37,F,1849,NULL,NULL
+0,40,F,1850,NULL,NULL
+0,42,M,1851,NULL,Not Known / Not recorded
+0,28,F,1852,2,Heterosexual  / Straight
+0,57,M,1853,2,Heterosexual  / Straight
+0,61,M,1854,NULL,NULL
+0,90,M,1855,NULL,NULL
+0,64,F,1856,2,Heterosexual  / Straight
+0,47,F,1857,NULL,NULL
+0,43,M,1858,NULL,Heterosexual  / Straight
+0,72,M,1859,NULL,Not Known / Not recorded
+0,30,M,1860,NULL,Heterosexual  / Straight
+0,55,F,1861,NULL,Not Known / Not recorded
+0,19,F,1862,NULL,NULL
+0,34,M,1863,NULL,NULL
+0,42,M,1864,NULL,NULL
+0,44,M,1865,2,Heterosexual  / Straight
+0,43,M,1866,NULL,NULL
+0,47,M,1867,NULL,NULL
+0,43,F,1868,2,Heterosexual  / Straight
+0,23,M,1869,NULL,NULL
+0,26,F,1870,NULL,NULL
+0,32,M,1871,NULL,NULL
+0,59,M,1872,NULL,NULL
+0,35,F,1873,NULL,Not Known / Not recorded
+0,29,M,1874,NULL,NULL
+0,67,M,1875,NULL,Not Known / Not recorded
+0,27,M,1876,NULL,Heterosexual  / Straight
+0,56,M,1877,NULL,Heterosexual  / Straight
+0,21,M,1878,NULL,NULL
+0,52,M,1879,NULL,NULL
+0,35,F,1880,NULL,NULL
+0,52,M,1881,NULL,NULL
+0,29,F,1882,NULL,NULL
+0,41,F,1883,NULL,NULL
+0,33,F,1884,NULL,NULL
+0,28,F,1885,NULL,Heterosexual  / Straight
+0,37,M,1886,2,Heterosexual  / Straight
+0,31,M,1887,2,Not Known
+0,36,M,1888,2,Heterosexual  / Straight
+0,42,F,1889,NULL,Bisexual
+0,65,M,1890,NULL,NULL
+0,32,F,1891,2,Heterosexual  / Straight
+0,54,M,1892,NULL,NULL
+0,42,M,1893,NULL,Not Known
+0,32,M,1894,2,Not Known / Not recorded
+0,31,F,1895,NULL,Heterosexual  / Straight
+0,48,F,1896,NULL,Heterosexual  / Straight
+0,29,M,1897,NULL,NULL
+0,23,M,1898,NULL,NULL
+0,26,M,1899,NULL,NULL
+0,56,M,1900,NULL,NULL
+0,40,F,1901,2,Heterosexual  / Straight
+0,46,F,1902,NULL,NULL
+0,35,F,1903,2,Heterosexual  / Straight
+0,34,F,1904,NULL,NULL
+0,43,M,1905,NULL,NULL
+0,44,M,1906,NULL,NULL
+0,56,M,1907,2,Heterosexual  / Straight
+0,58,F,1908,NULL,Not Known / Not recorded
+0,70,F,1909,NULL,NULL
+0,54,M,1910,NULL,Heterosexual  / Straight
+0,39,M,1911,NULL,Not Known / Not recorded
+0,57,F,1912,NULL,Not Known / Not recorded
+0,33,M,1913,NULL,Not Known / Not recorded
+0,36,M,1914,NULL,NULL
+0,42,M,1915,NULL,Not Known
+0,34,F,1916,NULL,NULL
+0,22,M,1917,NULL,NULL
+0,26,F,1918,NULL,NULL
+0,67,M,1919,NULL,NULL
+0,31,F,1920,NULL,NULL
+0,57,F,1921,NULL,NULL
+0,40,M,1922,NULL,NULL
+0,44,F,1923,NULL,NULL
+0,47,F,1924,NULL,NULL
+0,59,M,1925,2,Heterosexual  / Straight
+0,31,M,1926,NULL,NULL
+0,68,M,1927,NULL,NULL
+0,31,M,1928,NULL,NULL
+0,91,F,1929,NULL,Heterosexual  / Straight
+0,52,F,1930,NULL,NULL
+0,30,M,1931,NULL,NULL
+0,49,F,1932,NULL,NULL
+0,37,M,1933,NULL,NULL
+0,42,M,1934,NULL,NULL
+0,32,F,1935,NULL,NULL
+0,32,F,1936,NULL,Heterosexual  / Straight
+0,59,M,1937,NULL,NULL
+0,36,F,1938,NULL,Not Known
+0,28,F,1939,2,Not Known / Not recorded
+0,38,F,1940,NULL,Heterosexual  / Straight
+0,41,M,1941,NULL,NULL
+0,45,F,1942,NULL,NULL
+0,42,M,1943,NULL,NULL
+0,53,M,1944,NULL,Not Known
+1,60,M,1945,NULL,NULL
+0,39,M,1946,NULL,NULL
+0,67,F,1947,NULL,NULL
+0,33,F,1948,NULL,NULL
+0,49,F,1949,NULL,Heterosexual  / Straight
+1,86,F,1950,NULL,NULL
+0,29,F,1951,NULL,NULL
+0,82,M,1952,2,Heterosexual  / Straight
+0,45,M,1953,NULL,NULL
+0,45,M,1954,2,Heterosexual  / Straight
+0,52,M,1955,NULL,NULL
+0,46,F,1956,NULL,NULL
+0,31,F,1957,NULL,NULL
+0,22,M,1958,NULL,NULL
+0,31,M,1959,NULL,NULL
+0,39,M,1960,NULL,NULL
+0,57,F,1961,2,Not Known / Not recorded
+0,34,M,1962,NULL,NULL
+0,55,F,1963,NULL,NULL
+0,30,M,1964,NULL,Not Known
+0,51,F,1965,2,Not Known
+0,26,F,1966,NULL,NULL
+0,36,F,1967,NULL,NULL
+0,22,M,1968,NULL,NULL
+0,82,M,1969,2,Not Known / Not recorded
+0,31,M,1970,NULL,NULL
+0,41,M,1971,NULL,NULL
+0,39,M,1972,2,Heterosexual  / Straight
+0,34,F,1973,NULL,NULL
+0,53,M,1974,2,Heterosexual  / Straight
+0,31,F,1975,NULL,Heterosexual  / Straight
+0,76,M,1976,NULL,NULL
+0,57,M,1977,NULL,NULL
+0,47,M,1978,NULL,NULL
+0,37,F,1979,NULL,NULL
+1,57,M,1980,NULL,NULL
+0,39,F,1981,NULL,NULL
+0,33,F,1982,NULL,Heterosexual  / Straight
+0,47,F,1983,NULL,NULL
+0,41,F,1984,NULL,Heterosexual  / Straight
+0,31,F,1985,NULL,NULL
+0,72,F,1986,2,Heterosexual  / Straight
+1,67,M,1987,NULL,Heterosexual  / Straight
+0,35,M,1988,NULL,NULL
+0,28,M,1989,NULL,NULL
+0,30,M,1990,NULL,NULL
+0,29,M,1991,NULL,NULL
+0,72,M,1992,NULL,NULL
+0,37,F,1993,NULL,NULL
+0,63,F,1994,NULL,NULL
+0,56,F,1995,NULL,NULL
+0,35,M,1996,NULL,NULL
+1,61,M,1997,NULL,NULL
+0,56,F,1998,NULL,Not Known
+1,86,M,1999,NULL,NULL
+0,22,M,2000,NULL,NULL
+0,30,M,2001,NULL,NULL
+0,65,F,2002,NULL,NULL
+0,48,M,2003,NULL,NULL
+0,35,F,2004,NULL,NULL
+0,56,M,2005,NULL,NULL
+0,36,M,2006,NULL,NULL
+0,63,F,2007,NULL,Heterosexual  / Straight
+0,40,F,2008,NULL,Not Known
+0,78,F,2009,NULL,Not Known / Not recorded
+0,64,M,2010,NULL,NULL
+0,85,F,2011,2,Not Known
+0,31,F,2012,NULL,Not Known
+0,35,F,2013,NULL,NULL
+0,42,F,2014,2,Heterosexual  / Straight
+0,38,F,2015,NULL,NULL
+0,27,M,2016,2,Not Known / Not recorded
+0,66,F,2017,NULL,Heterosexual  / Straight
+0,47,M,2018,NULL,NULL
+0,38,M,2019,NULL,NULL
+0,50,M,2020,NULL,Not Known / Not recorded
+0,75,F,2021,2,Heterosexual  / Straight
+0,51,F,2022,2,Heterosexual  / Straight
+1,91,F,2023,2,Other
+0,70,F,2024,NULL,NULL
+0,47,M,2025,NULL,NULL
+0,42,F,2026,NULL,NULL
+0,19,F,2027,NULL,NULL
+0,19,M,2028,NULL,NULL
+0,54,F,2029,NULL,NULL
+0,41,M,2030,NULL,NULL
+0,37,F,2031,NULL,NULL
+0,37,M,2032,2,Heterosexual  / Straight
+0,50,F,2033,NULL,NULL
+0,28,M,2034,NULL,NULL
+0,70,F,2035,NULL,Heterosexual  / Straight
+0,37,F,2036,NULL,NULL
+0,23,F,2037,NULL,Other
+0,23,M,2038,NULL,NULL
+0,32,M,2039,2,Not Known / Not recorded
+0,34,M,2040,NULL,NULL
+0,67,F,2041,2,Heterosexual  / Straight
+0,20,F,2042,NULL,NULL
+0,53,F,2043,NULL,Heterosexual  / Straight
+0,42,F,2044,NULL,NULL
+0,43,M,2045,NULL,NULL
+0,38,F,2046,NULL,NULL
+0,60,M,2047,NULL,Not Known / Not recorded
+0,54,M,2048,2,Heterosexual  / Straight
+0,37,M,2049,NULL,NULL
+0,87,F,2050,NULL,NULL
+1,23,F,2051,NULL,NULL
+0,42,F,2052,NULL,NULL
+0,38,M,2053,2,Heterosexual  / Straight
+0,34,F,2054,NULL,Not Known
+0,45,F,2055,NULL,Not Known / Not recorded
+0,21,M,2056,NULL,NULL
+0,31,M,2057,NULL,NULL
+0,96,F,2058,NULL,NULL
+0,62,M,2059,NULL,NULL
+0,52,F,2060,NULL,NULL
+0,70,F,2061,NULL,NULL
+0,30,M,2062,2,Not Known / Not recorded
+0,24,F,2063,2,Heterosexual  / Straight
+0,36,M,2064,NULL,NULL
+0,46,M,2065,2,Not Known / Not recorded
+0,41,M,2066,2,Heterosexual  / Straight
+0,44,M,2067,NULL,NULL
+0,48,F,2068,NULL,NULL
+0,30,F,2069,NULL,NULL
+0,65,M,2070,2,Not Known / Not recorded
+0,70,M,2071,NULL,NULL
+0,86,F,2072,NULL,NULL
+0,46,F,2073,NULL,Not Known / Not recorded
+0,53,F,2074,NULL,Not Known
+0,27,M,2075,NULL,NULL
+0,44,F,2076,NULL,NULL
+0,24,F,2077,NULL,NULL
+0,24,F,2078,NULL,NULL
+0,72,F,2079,NULL,NULL
+0,47,F,2080,NULL,Not Known / Not recorded
+0,85,M,2081,NULL,Heterosexual  / Straight
+0,62,M,2082,NULL,NULL
+0,76,F,2083,NULL,Heterosexual  / Straight
+0,48,F,2084,NULL,Not Known
+0,38,F,2085,NULL,NULL
+0,47,F,2086,NULL,Prefer not to say
+0,32,F,2087,2,Gay / Lesbian
+0,26,M,2088,NULL,NULL
+0,28,M,2089,NULL,Heterosexual  / Straight
+0,53,F,2090,NULL,NULL
+0,40,M,2091,2,Heterosexual  / Straight
+0,42,F,2092,2,Heterosexual  / Straight
+0,22,F,2093,NULL,NULL
+0,45,F,2094,NULL,Not Known / Not recorded
+0,29,F,2095,NULL,NULL
+0,73,F,2096,NULL,NULL
+0,56,F,2097,2,Heterosexual  / Straight
+0,72,M,2098,NULL,NULL
+0,72,F,2099,2,Heterosexual  / Straight
+0,68,F,2100,NULL,NULL
+0,40,F,2101,NULL,Not Known / Not recorded
+0,56,M,2102,NULL,Heterosexual  / Straight
+0,51,F,2103,2,Not Known / Not recorded
+0,40,M,2104,NULL,Not Known / Not recorded
+0,55,F,2105,2,Heterosexual  / Straight
+0,51,F,2106,NULL,NULL
+0,72,M,2107,NULL,NULL
+0,64,F,2108,NULL,Heterosexual  / Straight
+0,72,F,2109,NULL,Prefer not to say
+0,90,F,2110,NULL,Not Known / Not recorded
+0,53,M,2111,2,Heterosexual  / Straight
+0,54,M,2112,NULL,Not Known / Not recorded
+0,28,M,2113,NULL,NULL
+0,44,M,2114,2,Heterosexual  / Straight
+0,71,F,2115,NULL,Heterosexual  / Straight
+0,77,M,2116,NULL,NULL
+0,67,M,2117,NULL,Heterosexual  / Straight
+0,41,M,2118,2,Heterosexual  / Straight
+0,38,M,2119,NULL,Not Known / Not recorded
+0,34,F,2120,NULL,Heterosexual  / Straight
+0,44,F,2121,2,Not Known / Not recorded
+0,36,F,2122,NULL,NULL
+0,36,M,2123,NULL,NULL
+0,35,M,2124,2,Prefer not to say
+0,38,M,2125,NULL,NULL
+0,30,M,2126,NULL,NULL
+0,82,M,2127,NULL,NULL
+0,24,M,2128,NULL,NULL
+0,65,M,2129,NULL,NULL
+0,73,F,2130,NULL,NULL
+0,32,M,2131,NULL,NULL
+0,30,M,2132,NULL,Heterosexual  / Straight
+0,69,F,2133,NULL,Heterosexual  / Straight
+0,29,F,2134,2,Heterosexual  / Straight
+0,48,F,2135,NULL,Not Known / Not recorded
+0,37,M,2136,NULL,NULL
+0,26,M,2137,NULL,NULL
+0,57,M,2138,2,Heterosexual  / Straight
+0,36,F,2139,NULL,Not Known / Not recorded
+0,39,F,2140,NULL,Heterosexual  / Straight
+0,33,F,2141,2,Bisexual
+0,35,M,2142,NULL,Not Known / Not recorded
+0,41,M,2143,NULL,NULL
+0,25,M,2144,NULL,NULL
+0,63,M,2145,2,Heterosexual  / Straight
+0,71,F,2146,NULL,NULL
+0,53,F,2147,NULL,NULL
+0,29,M,2148,NULL,Heterosexual  / Straight
+0,53,F,2149,NULL,NULL
+0,31,M,2150,NULL,NULL
+0,56,F,2151,2,Heterosexual  / Straight
+0,36,F,2152,NULL,Bisexual
+0,86,M,2153,2,Heterosexual  / Straight
+0,49,M,2154,2,Heterosexual  / Straight
+0,71,F,2155,NULL,Heterosexual  / Straight
+0,50,M,2156,2,Heterosexual  / Straight
+0,25,F,2157,2,Not Known / Not recorded
+0,31,M,2158,2,Heterosexual  / Straight
+0,48,F,2159,NULL,NULL
+0,28,F,2160,NULL,Not Known / Not recorded
+0,38,M,2161,NULL,NULL
+0,64,F,2162,NULL,NULL
+0,29,M,2163,2,Heterosexual  / Straight
+0,28,M,2164,NULL,NULL
+0,32,M,2165,NULL,Not Known / Not recorded
+0,55,F,2166,2,Heterosexual  / Straight
+0,50,F,2167,NULL,NULL
+0,25,F,2168,2,Heterosexual  / Straight
+0,87,M,2169,2,Not Known
+0,43,M,2170,NULL,NULL
+0,28,F,2171,NULL,Heterosexual  / Straight
+1,80,F,2172,NULL,NULL
+0,63,F,2173,NULL,NULL
+1,84,M,2174,NULL,NULL
+0,56,F,2175,NULL,NULL
+0,25,F,2176,NULL,Heterosexual  / Straight
+0,69,F,2177,NULL,NULL
+0,37,M,2178,2,Not Known / Not recorded
+0,36,F,2179,NULL,NULL
+0,57,M,2180,NULL,NULL
+0,59,M,2181,NULL,Heterosexual  / Straight
+0,59,F,2182,NULL,NULL
+0,28,F,2183,NULL,NULL
+0,69,F,2184,NULL,Not Known / Not recorded
+0,50,M,2185,2,Heterosexual  / Straight
+0,70,M,2186,2,Not Known
+0,29,M,2187,NULL,NULL
+0,27,M,2188,NULL,NULL
+0,51,F,2189,NULL,Heterosexual  / Straight
+0,31,M,2190,NULL,Heterosexual  / Straight
+0,19,M,2191,NULL,NULL
+0,81,M,2192,NULL,NULL
+0,69,F,2193,NULL,NULL
+0,41,F,2194,NULL,Gay / Lesbian
+0,51,F,2195,2,Heterosexual  / Straight
+0,36,M,2196,NULL,NULL
+0,55,M,2197,NULL,NULL
+0,63,F,2198,NULL,Not Known / Not recorded
+1,41,M,2199,NULL,NULL
+0,32,M,2200,NULL,NULL
+0,69,F,2201,NULL,NULL
+0,30,M,2202,NULL,NULL
+0,32,F,2203,NULL,NULL
+0,38,F,2204,NULL,NULL
+0,47,M,2205,NULL,NULL
+0,44,M,2206,2,Heterosexual  / Straight
+0,65,M,2207,NULL,NULL
+0,54,M,2208,NULL,NULL
+0,45,F,2209,NULL,Not Known
+0,42,F,2210,NULL,NULL
+0,31,M,2211,2,NULL
+0,55,F,2212,NULL,NULL
+0,46,M,2213,NULL,NULL
+0,47,F,2214,NULL,NULL
+0,54,M,2215,2,Heterosexual  / Straight
+0,36,M,2216,NULL,NULL
+0,57,M,2217,NULL,Not Known / Not recorded
+0,40,M,2218,2,Heterosexual  / Straight
+0,67,F,2219,NULL,Not Known / Not recorded
+0,29,F,2220,NULL,Not Known / Not recorded
+0,28,M,2221,NULL,NULL
+0,39,F,2222,NULL,NULL
+0,38,M,2223,NULL,Not Known / Not recorded
+0,62,F,2224,NULL,NULL
+0,41,F,2225,NULL,NULL
+0,32,M,2226,NULL,NULL
+0,57,F,2227,NULL,NULL
+0,42,M,2228,NULL,Not Known / Not recorded
+0,28,F,2229,NULL,Heterosexual  / Straight
+0,95,M,2230,2,Heterosexual  / Straight
+0,35,F,2231,NULL,NULL
+0,53,F,2232,NULL,Heterosexual  / Straight
+0,33,M,2233,NULL,NULL
+0,30,M,2234,2,Heterosexual  / Straight
+0,35,M,2235,NULL,NULL
+1,28,M,2236,2,Heterosexual  / Straight
+0,55,F,2237,NULL,NULL
+0,81,F,2238,NULL,Heterosexual  / Straight
+0,48,M,2239,2,Heterosexual  / Straight
+0,52,M,2240,2,Heterosexual  / Straight
+0,44,M,2241,2,Not Known / Not recorded
+0,78,F,2242,NULL,NULL
+0,66,F,2243,1,Heterosexual  / Straight
+0,79,M,2244,NULL,Heterosexual  / Straight
+0,40,M,2245,NULL,NULL
+0,51,M,2246,NULL,NULL
+0,74,M,2247,NULL,NULL
+1,84,M,2248,NULL,NULL
+0,63,F,2249,2,Heterosexual  / Straight
+0,78,F,2250,NULL,Not Known
+0,81,M,2251,NULL,NULL
+0,29,M,2252,NULL,NULL
+0,36,M,2253,NULL,Gay / Lesbian
+1,87,F,2254,NULL,NULL
+0,51,F,2255,NULL,NULL
+0,38,F,2256,NULL,Heterosexual  / Straight
+0,62,F,2257,NULL,NULL
+0,26,M,2258,NULL,NULL
+0,38,M,2259,NULL,Heterosexual  / Straight
+0,67,F,2260,NULL,Heterosexual  / Straight
+0,21,M,2261,NULL,NULL
+0,54,F,2262,NULL,NULL
+1,77,M,2263,NULL,NULL
+0,27,M,2264,NULL,Heterosexual  / Straight
+0,52,M,2265,NULL,NULL
+0,37,F,2266,NULL,NULL
+0,36,M,2267,NULL,NULL
+0,58,M,2268,NULL,NULL
+0,58,F,2269,2,Heterosexual  / Straight
+0,29,M,2270,NULL,Not Known / Not recorded
+0,31,M,2271,NULL,NULL
+0,34,F,2272,NULL,NULL
+0,60,F,2273,2,Heterosexual  / Straight
+0,34,M,2274,NULL,NULL
+0,70,F,2275,NULL,NULL
+0,63,F,2276,NULL,Heterosexual  / Straight
+0,26,M,2277,NULL,NULL
+0,55,F,2278,2,Heterosexual  / Straight
+0,32,F,2279,NULL,NULL
+0,33,M,2280,NULL,NULL
+0,47,F,2281,NULL,NULL
+0,35,F,2282,NULL,NULL
+0,32,F,2283,NULL,NULL
+0,47,M,2284,NULL,NULL
+0,69,F,2285,NULL,NULL
+0,45,M,2286,NULL,NULL
+0,44,M,2287,2,Not Known / Not recorded
+0,32,M,2288,NULL,Heterosexual  / Straight
+0,82,M,2289,NULL,NULL
+0,33,M,2290,NULL,NULL
+0,69,M,2291,NULL,Heterosexual  / Straight
+0,42,F,2292,NULL,Not Known
+0,51,F,2293,NULL,Heterosexual  / Straight
+0,40,M,2294,NULL,NULL
+0,30,M,2295,2,Heterosexual  / Straight
+0,67,F,2296,NULL,Prefer not to say
+1,39,M,2297,2,Heterosexual  / Straight
+0,50,F,2298,NULL,Heterosexual  / Straight
+0,39,M,2299,NULL,NULL
+0,57,M,2300,NULL,NULL
+0,34,F,2301,NULL,Not Known
+0,31,F,2302,NULL,NULL
+0,58,M,2303,2,Heterosexual  / Straight
+0,31,M,2304,NULL,NULL
+0,76,F,2305,NULL,Heterosexual  / Straight
+1,84,M,2306,NULL,Heterosexual  / Straight
+0,34,M,2307,NULL,Not Known / Not recorded
+0,42,F,2308,NULL,NULL
+0,39,M,2309,NULL,NULL
+0,40,M,2310,NULL,NULL
+0,30,F,2311,NULL,NULL
+0,48,M,2312,NULL,Not Known / Not recorded
+0,35,M,2313,NULL,Not Known / Not recorded
+0,31,M,2314,NULL,NULL
+0,29,M,2315,NULL,Heterosexual  / Straight
+0,30,F,2316,2,Heterosexual  / Straight
+0,21,F,2317,NULL,NULL
+0,42,M,2318,2,Heterosexual  / Straight
+0,70,F,2319,NULL,Heterosexual  / Straight
+0,45,F,2320,NULL,NULL
+0,51,M,2321,NULL,Heterosexual  / Straight
+0,87,M,2322,NULL,Not Known / Not recorded
+0,29,F,2323,2,Gay / Lesbian
+0,36,F,2324,NULL,NULL
+0,34,M,2325,NULL,NULL
+0,42,F,2326,NULL,NULL
+0,47,M,2327,2,NULL
+0,81,F,2328,NULL,Heterosexual  / Straight
+0,21,F,2329,2,Not Known / Not recorded
+0,43,F,2330,2,Heterosexual  / Straight
+0,88,F,2331,2,Not Known / Not recorded
+0,38,F,2332,NULL,NULL
+0,31,M,2333,NULL,NULL
+0,51,F,2334,NULL,Not Known / Not recorded
+0,20,F,2335,NULL,NULL
+0,35,F,2336,NULL,NULL
+0,47,M,2337,NULL,NULL
+0,64,M,2338,NULL,NULL
+0,48,M,2339,NULL,NULL
+0,64,M,2340,NULL,Other
+0,37,F,2341,NULL,NULL
+0,77,M,2342,NULL,NULL
+0,30,F,2343,2,Heterosexual  / Straight
+0,69,M,2344,NULL,NULL
+0,44,F,2345,NULL,Not Known / Not recorded
+0,29,M,2346,NULL,NULL
+0,50,F,2347,NULL,NULL
+0,78,M,2348,NULL,NULL
+0,90,M,2349,2,Heterosexual  / Straight
+0,47,F,2350,NULL,NULL
+0,70,M,2351,NULL,NULL
+0,47,M,2352,NULL,NULL
+0,75,M,2353,NULL,Heterosexual  / Straight
+0,22,F,2354,NULL,NULL
+0,33,F,2355,NULL,NULL
+0,40,M,2356,NULL,NULL
+0,77,M,2357,NULL,NULL
+0,26,F,2358,NULL,Heterosexual  / Straight
+0,29,F,2359,NULL,NULL
+0,52,M,2360,NULL,Heterosexual  / Straight
+0,88,F,2361,NULL,NULL
+0,27,M,2362,NULL,NULL
+0,30,F,2363,2,Not Known / Not recorded
+0,34,M,2364,2,Prefer not to say
+0,32,M,2365,NULL,NULL
+0,43,F,2366,NULL,NULL
+0,36,M,2367,2,NULL
+0,23,F,2368,NULL,NULL
+0,38,M,2369,NULL,NULL
+0,79,M,2370,NULL,NULL
+0,39,F,2371,NULL,Not Known / Not recorded
+0,31,M,2372,NULL,NULL
+0,50,M,2373,NULL,NULL
+0,71,F,2374,NULL,Heterosexual  / Straight
+0,33,M,2375,NULL,Not Known / Not recorded
+0,83,F,2376,NULL,NULL
+0,68,M,2377,NULL,NULL
+1,77,F,2378,NULL,NULL
+0,47,F,2379,NULL,NULL
+0,29,F,2380,NULL,NULL
+0,27,F,2381,2,Heterosexual  / Straight
+0,32,M,2382,NULL,NULL
+0,36,F,2383,NULL,NULL
+0,52,F,2384,NULL,NULL
+0,80,M,2385,NULL,NULL
+0,61,M,2386,NULL,Not Known / Not recorded
+0,43,M,2387,NULL,NULL
+0,40,F,2388,2,Heterosexual  / Straight
+0,34,M,2389,2,Heterosexual  / Straight
+0,38,M,2390,2,Heterosexual  / Straight
+0,85,F,2391,NULL,NULL
+0,78,M,2392,NULL,NULL
+0,41,M,2393,NULL,NULL
+0,32,M,2394,NULL,Not Known / Not recorded
+0,74,M,2395,NULL,Not Known / Not recorded
+0,57,M,2396,2,NULL
+0,41,M,2397,NULL,Heterosexual  / Straight
+0,81,F,2398,NULL,NULL
+0,40,F,2399,NULL,NULL
+0,54,F,2400,2,Other
+0,22,F,2401,NULL,NULL
+0,39,F,2402,2,Heterosexual  / Straight
+0,38,M,2403,2,Not Known
+0,48,M,2404,NULL,NULL
+0,37,M,2405,NULL,NULL
+0,48,M,2406,2,Heterosexual  / Straight
+0,43,M,2407,2,Heterosexual  / Straight
+0,49,M,2408,NULL,NULL
+0,64,M,2409,NULL,Not Known / Not recorded
+0,44,F,2410,NULL,NULL
+0,37,F,2411,NULL,NULL
+0,42,M,2412,NULL,NULL
+0,59,M,2413,NULL,NULL
+0,45,M,2414,NULL,NULL
+0,86,M,2415,NULL,Heterosexual  / Straight
+0,58,M,2416,NULL,NULL
+0,28,F,2417,NULL,NULL
+0,73,M,2418,2,Heterosexual  / Straight
+0,81,F,2419,NULL,Not Known / Not recorded
+0,49,M,2420,NULL,NULL
+0,28,M,2421,NULL,NULL
+0,46,M,2422,2,Heterosexual  / Straight
+0,32,F,2423,2,Not Known
+0,77,M,2424,NULL,NULL
+0,27,M,2425,2,Not Known / Not recorded
+0,50,M,2426,2,Heterosexual  / Straight
+0,50,F,2427,NULL,Heterosexual  / Straight
+1,90,F,2428,NULL,NULL
+0,68,F,2429,NULL,Heterosexual  / Straight
+0,35,M,2430,NULL,NULL
+0,38,F,2431,NULL,Not Known / Not recorded
+0,66,F,2432,NULL,Heterosexual  / Straight
+0,48,M,2433,NULL,NULL
+0,87,F,2434,2,Heterosexual  / Straight
+0,43,M,2435,NULL,NULL
+0,70,F,2436,NULL,NULL
+0,64,M,2437,NULL,NULL
+0,69,F,2438,2,Heterosexual  / Straight
+0,47,F,2439,2,Heterosexual  / Straight
+0,23,F,2440,NULL,NULL
+0,32,M,2441,NULL,NULL
+0,59,F,2442,NULL,NULL
+0,33,F,2443,2,Heterosexual  / Straight
+0,45,M,2444,NULL,NULL
+0,49,F,2445,NULL,NULL
+0,83,F,2446,2,Heterosexual  / Straight
+0,30,M,2447,2,Heterosexual  / Straight
+0,62,F,2448,NULL,NULL
+0,33,F,2449,NULL,NULL
+0,25,F,2450,NULL,NULL
+0,28,F,2451,2,Heterosexual  / Straight
+0,54,M,2452,NULL,NULL
+0,48,M,2453,NULL,NULL
+0,42,F,2454,2,Heterosexual  / Straight
+0,88,F,2455,NULL,Heterosexual  / Straight
+0,42,F,2456,NULL,Gay / Lesbian
+0,29,M,2457,NULL,NULL
+0,95,F,2458,NULL,NULL
+0,67,F,2459,2,Heterosexual  / Straight
+0,33,F,2460,NULL,Not Known / Not recorded
+0,25,M,2461,NULL,NULL
+0,37,F,2462,NULL,Heterosexual  / Straight
+0,77,F,2463,NULL,Heterosexual  / Straight
+0,51,F,2464,NULL,NULL
+0,48,M,2465,NULL,Not Known / Not recorded
+0,37,M,2466,NULL,NULL
+0,52,M,2467,NULL,NULL
+0,42,M,2468,2,Not Known / Not recorded
+0,58,M,2469,NULL,NULL
+0,43,F,2470,NULL,NULL
+0,49,M,2471,NULL,Not Known / Not recorded
+0,82,M,2472,NULL,NULL
+0,55,M,2473,2,Heterosexual  / Straight
+0,55,M,2474,NULL,NULL
+0,54,F,2475,NULL,NULL
+0,38,M,2476,NULL,NULL
+0,22,F,2477,NULL,NULL
+0,25,F,2478,2,Gay / Lesbian
+0,76,F,2479,NULL,Heterosexual  / Straight
+0,49,M,2480,NULL,NULL
+0,36,F,2481,NULL,NULL
+0,40,M,2482,NULL,Not Known / Not recorded
+0,71,M,2483,NULL,NULL
+0,50,F,2484,2,Heterosexual  / Straight
+0,31,M,2485,NULL,NULL
+0,62,M,2486,NULL,NULL
+0,51,M,2487,NULL,NULL
+0,57,F,2488,NULL,NULL
+0,25,F,2489,NULL,NULL
+0,40,F,2490,NULL,NULL
+1,84,M,2491,NULL,NULL
+0,47,F,2492,NULL,Not Known / Not recorded
+0,24,M,2493,NULL,NULL
+0,34,M,2494,NULL,NULL
+0,45,F,2495,NULL,Heterosexual  / Straight
+0,57,F,2496,NULL,Heterosexual  / Straight
+0,34,F,2497,2,Heterosexual  / Straight
+0,44,F,2498,2,Heterosexual  / Straight
+0,31,F,2499,NULL,NULL
+0,21,F,2500,NULL,NULL
+0,45,M,2501,2,Heterosexual  / Straight
+0,72,M,2502,NULL,NULL
+0,52,F,2503,2,Heterosexual  / Straight
+0,36,M,2504,NULL,Heterosexual  / Straight
+0,40,M,2505,NULL,Not Known / Not recorded
+0,45,M,2506,NULL,NULL
+0,20,M,2507,NULL,Not Known / Not recorded
+0,48,F,2508,NULL,Heterosexual  / Straight
+0,77,F,2509,2,Heterosexual  / Straight
+0,31,M,2510,NULL,Heterosexual  / Straight
+0,72,F,2511,2,Heterosexual  / Straight
+0,44,M,2512,NULL,Not Known
+0,47,F,2513,NULL,NULL
+1,72,F,2514,NULL,NULL
+1,75,M,2515,NULL,NULL
+0,41,F,2516,NULL,NULL
+0,39,M,2517,2,Not Known / Not recorded
+0,51,F,2518,NULL,NULL
+0,50,F,2519,NULL,NULL
+0,81,M,2520,NULL,NULL
+0,52,F,2521,2,Heterosexual  / Straight
+0,59,M,2522,NULL,Heterosexual  / Straight
+0,20,M,2523,NULL,NULL
+0,47,M,2524,2,Heterosexual  / Straight
+0,48,F,2525,NULL,NULL
+0,39,F,2526,NULL,Not Known
+0,29,M,2527,NULL,NULL
+0,35,M,2528,2,NULL
+0,30,M,2529,2,Heterosexual  / Straight
+0,41,M,2530,NULL,Not Known
+0,31,M,2531,2,Heterosexual  / Straight
+0,57,M,2532,2,Heterosexual  / Straight
+0,40,M,2533,NULL,NULL
+0,68,M,2534,NULL,Heterosexual  / Straight
+0,40,F,2535,NULL,NULL
+0,39,M,2536,NULL,NULL
+0,40,F,2537,NULL,Not Known / Not recorded
+0,45,M,2538,NULL,NULL
+0,27,F,2539,NULL,NULL
+0,31,M,2540,NULL,NULL
+0,66,F,2541,NULL,Not Known / Not recorded
+0,80,F,2542,NULL,NULL
+0,23,F,2543,2,Heterosexual  / Straight
+0,63,M,2544,2,Heterosexual  / Straight
+0,58,M,2545,2,NULL
+0,47,F,2546,2,Heterosexual  / Straight
+0,32,F,2547,NULL,NULL
+0,32,F,2548,NULL,NULL
+0,87,F,2549,NULL,NULL
+0,28,F,2550,NULL,NULL
+0,36,F,2551,NULL,NULL
+0,34,M,2552,NULL,NULL
+0,26,M,2553,NULL,NULL
+0,67,F,2554,2,Not Known / Not recorded
+0,35,M,2555,NULL,NULL
+0,39,F,2556,NULL,Not Known / Not recorded
+0,34,F,2557,NULL,NULL
+0,58,F,2558,NULL,NULL
+0,48,M,2559,2,Heterosexual  / Straight
+0,64,F,2560,NULL,NULL
+0,36,F,2561,NULL,Not Known / Not recorded
+0,28,M,2562,NULL,Heterosexual  / Straight
+0,27,M,2563,NULL,Not Known / Not recorded
+0,20,M,2564,NULL,NULL
+0,38,F,2565,NULL,Heterosexual  / Straight
+0,20,M,2566,NULL,NULL
+0,69,F,2567,2,Heterosexual  / Straight
+0,55,F,2568,NULL,NULL
+0,33,F,2569,NULL,NULL
+0,28,F,2570,NULL,NULL
+0,34,M,2571,NULL,NULL
+0,44,F,2572,NULL,Heterosexual  / Straight
+0,69,F,2573,2,Heterosexual  / Straight
+0,23,M,2574,NULL,NULL
+0,36,M,2575,2,Not Known / Not recorded
+0,82,M,2576,2,Not Known / Not recorded
+1,81,F,2577,NULL,NULL
+0,67,F,2578,NULL,NULL
+0,66,F,2579,NULL,NULL
+1,52,F,2580,NULL,NULL
+1,79,F,2581,2,Heterosexual  / Straight
+0,72,M,2582,NULL,Not Known
+0,53,F,2583,2,Heterosexual  / Straight
+0,38,M,2584,NULL,NULL
+0,28,M,2585,NULL,NULL
+0,26,F,2586,2,Heterosexual  / Straight
+0,22,M,2587,NULL,NULL
+0,77,M,2588,NULL,NULL
+0,58,M,2589,NULL,NULL
+0,65,F,2590,2,Not Known / Not recorded
+0,51,F,2591,NULL,NULL
+0,39,M,2592,NULL,NULL
+0,27,M,2593,NULL,Not Known / Not recorded
+0,26,M,2594,NULL,NULL
+0,31,M,2595,2,Heterosexual  / Straight
+0,40,M,2596,NULL,NULL
+0,32,F,2597,NULL,Heterosexual  / Straight
+0,46,F,2598,NULL,NULL
+0,73,M,2599,NULL,NULL
+0,40,M,2600,NULL,NULL
+0,36,F,2601,NULL,NULL
+0,22,F,2602,NULL,NULL
+0,56,F,2603,NULL,Heterosexual  / Straight
+0,33,M,2604,NULL,Heterosexual  / Straight
+0,36,F,2605,NULL,NULL
+0,31,F,2606,NULL,NULL
+0,43,M,2607,NULL,NULL
+0,52,F,2608,NULL,NULL
+0,27,F,2609,NULL,NULL
+0,33,F,2610,NULL,NULL
+0,41,F,2611,NULL,NULL
+0,34,M,2612,NULL,Heterosexual  / Straight
+0,36,F,2613,NULL,Heterosexual  / Straight
+0,41,F,2614,NULL,NULL
+0,37,M,2615,NULL,NULL
+0,68,M,2616,NULL,NULL
+0,73,F,2617,NULL,NULL
+0,40,M,2618,NULL,NULL
+0,46,M,2619,2,Not Known
+0,33,M,2620,2,Not Known / Not recorded
+0,66,M,2621,NULL,Not Known / Not recorded
+0,77,M,2622,NULL,Heterosexual  / Straight
+0,69,M,2623,NULL,NULL
+0,36,F,2624,NULL,NULL
+0,22,M,2625,NULL,NULL
+0,29,M,2626,NULL,NULL
+0,70,F,2627,NULL,NULL
+0,70,F,2628,NULL,NULL
+1,90,M,2629,NULL,Not Known
+0,60,M,2630,NULL,NULL
+0,85,M,2631,NULL,Heterosexual  / Straight
+0,45,NULL,2632,NULL,Prefer not to say
+0,28,M,2633,NULL,NULL
+0,36,M,2634,NULL,Heterosexual  / Straight
+0,35,M,2635,NULL,NULL
+0,33,M,2636,NULL,NULL
+0,53,M,2637,NULL,NULL
+0,26,F,2638,NULL,NULL
+0,51,M,2639,NULL,NULL
+0,28,F,2640,2,Heterosexual  / Straight
+0,77,M,2641,NULL,NULL
+0,66,F,2642,NULL,Not Known / Not recorded
+0,51,M,2643,NULL,Not Known
+0,52,F,2644,NULL,NULL
+0,26,F,2645,NULL,NULL
+0,81,M,2646,NULL,Heterosexual  / Straight
+0,32,F,2647,NULL,Heterosexual  / Straight
+0,52,F,2648,NULL,Heterosexual  / Straight
+0,52,M,2649,2,Heterosexual  / Straight
+1,32,M,2650,2,Not Known / Not recorded
+0,38,F,2651,2,Heterosexual  / Straight
+0,63,M,2652,2,Heterosexual  / Straight
+0,35,M,2653,NULL,NULL
+0,59,F,2654,NULL,NULL
+0,83,M,2655,NULL,NULL
+0,44,M,2656,2,Not Known / Not recorded
+0,28,M,2657,NULL,NULL
+0,35,F,2658,NULL,NULL
+0,67,F,2659,NULL,NULL
+0,23,F,2660,2,Not Known / Not recorded
+0,26,M,2661,NULL,Heterosexual  / Straight
+0,36,M,2662,NULL,NULL
+0,28,M,2663,2,Heterosexual  / Straight
+0,41,M,2664,NULL,Not Known
+0,28,M,2665,NULL,Other
+1,56,F,2666,2,Heterosexual  / Straight
+0,39,M,2667,NULL,NULL
+0,42,M,2668,NULL,NULL
+0,45,F,2669,NULL,NULL
+0,37,M,2670,NULL,NULL
+0,19,M,2671,NULL,NULL
+0,59,F,2672,NULL,Heterosexual  / Straight
+0,47,M,2673,NULL,Heterosexual  / Straight
+0,38,M,2674,NULL,Heterosexual  / Straight
+0,67,F,2675,NULL,NULL
+0,64,F,2676,2,Heterosexual  / Straight
+0,75,F,2677,NULL,NULL
+0,56,F,2678,NULL,NULL
+0,51,F,2679,NULL,NULL
+0,36,F,2680,NULL,NULL
+1,70,M,2681,2,Heterosexual  / Straight
+0,46,M,2682,2,Prefer not to say
+0,78,F,2683,NULL,NULL
+0,52,F,2684,NULL,NULL
+0,47,M,2685,2,Heterosexual  / Straight
+0,68,F,2686,NULL,NULL
+0,49,M,2687,NULL,NULL
+0,45,M,2688,NULL,NULL
+0,28,M,2689,NULL,Not Known
+0,75,F,2690,NULL,Not Known
+1,34,M,2691,NULL,NULL
+0,20,F,2692,2,Heterosexual  / Straight
+0,51,F,2693,2,Heterosexual  / Straight
+0,40,F,2694,NULL,Heterosexual  / Straight
+0,35,M,2695,NULL,NULL
+0,27,F,2696,NULL,NULL
+0,25,F,2697,NULL,NULL
+0,72,F,2698,2,Not Known / Not recorded
+0,68,M,2699,2,Heterosexual  / Straight
+0,26,F,2700,NULL,NULL
+0,48,M,2701,NULL,NULL
+1,85,F,2702,NULL,NULL
+0,55,F,2703,NULL,NULL
+0,77,M,2704,NULL,NULL
+0,43,F,2705,NULL,Heterosexual  / Straight
+0,30,F,2706,NULL,NULL
+0,48,M,2707,2,Heterosexual  / Straight
+0,88,M,2708,NULL,NULL
+0,77,F,2709,NULL,NULL
+0,56,M,2710,NULL,NULL
+0,75,F,2711,NULL,NULL
+0,31,M,2712,NULL,NULL
+0,49,M,2713,NULL,NULL
+0,45,F,2714,NULL,NULL
+0,38,M,2715,NULL,Heterosexual  / Straight
+0,63,M,2716,NULL,NULL
+0,43,F,2717,NULL,Not Known / Not recorded
+0,40,F,2718,2,Bisexual
+0,62,M,2719,NULL,NULL
+0,61,F,2720,2,Heterosexual  / Straight
+0,44,F,2721,2,Heterosexual  / Straight
+0,25,F,2722,NULL,NULL
+1,75,F,2723,NULL,NULL
+0,80,F,2724,2,Heterosexual  / Straight
+0,78,M,2725,NULL,NULL
+0,36,M,2726,NULL,NULL
+0,88,M,2727,NULL,Not Known / Not recorded
+0,65,F,2728,NULL,NULL
+0,21,F,2729,2,Heterosexual  / Straight
+0,36,M,2730,NULL,NULL
+0,47,F,2731,NULL,NULL
+0,56,M,2732,NULL,NULL
+0,54,M,2733,NULL,Not Known / Not recorded
+0,47,M,2734,NULL,NULL
+0,40,M,2735,NULL,Not Known / Not recorded
+0,28,F,2736,NULL,NULL
+0,26,M,2737,NULL,NULL
+0,46,M,2738,NULL,NULL
+0,66,M,2739,NULL,Heterosexual  / Straight
+0,49,M,2740,NULL,NULL
+0,74,M,2741,2,Heterosexual  / Straight
+0,34,F,2742,NULL,NULL
+0,79,M,2743,NULL,Not Known / Not recorded
+0,38,M,2744,NULL,NULL
+1,80,M,2745,NULL,NULL
+0,48,F,2746,NULL,NULL
+0,77,F,2747,2,Not Known / Not recorded
+0,30,F,2748,NULL,NULL
+0,34,M,2749,NULL,NULL
+0,28,M,2750,NULL,NULL
+0,21,F,2751,2,Heterosexual  / Straight
+0,37,F,2752,NULL,Not Known / Not recorded
+0,25,M,2753,NULL,NULL
+0,49,M,2754,NULL,NULL
+1,80,M,2755,NULL,NULL
+0,21,M,2756,2,Not Known / Not recorded
+0,26,F,2757,NULL,NULL
+0,47,M,2758,NULL,NULL
+0,64,F,2759,NULL,NULL
+0,53,F,2760,NULL,NULL
+0,30,F,2761,2,Heterosexual  / Straight
+0,32,M,2762,2,Heterosexual  / Straight
+0,29,M,2763,NULL,Heterosexual  / Straight
+0,27,F,2764,NULL,Not Known / Not recorded
+0,19,M,2765,NULL,NULL
+0,50,F,2766,NULL,NULL
+0,42,F,2767,NULL,NULL
+0,67,M,2768,NULL,NULL
+0,43,M,2769,2,Heterosexual  / Straight
+0,58,F,2770,2,Heterosexual  / Straight
+0,39,M,2771,2,Heterosexual  / Straight
+0,45,F,2772,NULL,Not Known / Not recorded
+0,52,F,2773,NULL,NULL
+0,34,F,2774,2,Not Known / Not recorded
+0,48,F,2775,2,Heterosexual  / Straight
+0,60,M,2776,NULL,NULL
+0,71,M,2777,2,Heterosexual  / Straight
+0,43,M,2778,2,Heterosexual  / Straight
+0,28,F,2779,NULL,NULL
+0,35,M,2780,NULL,NULL
+0,75,M,2781,NULL,Not Known / Not recorded
+0,51,F,2782,NULL,Not Known / Not recorded
+0,73,F,2783,NULL,NULL
+0,62,F,2784,NULL,NULL
+0,27,F,2785,NULL,NULL
+0,48,F,2786,NULL,NULL
+0,67,M,2787,2,Heterosexual  / Straight
+0,48,M,2788,2,Heterosexual  / Straight
+0,61,F,2789,2,Not Known / Not recorded
+0,37,M,2790,NULL,NULL
+0,23,M,2791,NULL,NULL
+0,58,M,2792,NULL,NULL
+0,40,F,2793,NULL,NULL
+0,73,F,2794,2,Heterosexual  / Straight
+0,34,M,2795,NULL,Not Known
+0,53,F,2796,2,Heterosexual  / Straight
+0,76,M,2797,2,NULL
+0,41,F,2798,NULL,Not Known / Not recorded
+0,31,M,2799,2,Heterosexual  / Straight
+0,53,M,2800,NULL,NULL
+0,50,M,2801,NULL,Not Known
+0,47,F,2802,NULL,Not Known / Not recorded
+0,28,M,2803,NULL,NULL
+0,31,M,2804,NULL,Not Known
+0,60,M,2805,NULL,Heterosexual  / Straight
+0,30,F,2806,NULL,Not Known / Not recorded
+0,83,M,2807,NULL,NULL
+0,29,M,2808,NULL,NULL
+0,67,M,2809,NULL,NULL
+0,41,F,2810,NULL,Heterosexual  / Straight
+0,50,M,2811,NULL,NULL
+0,29,F,2812,2,Not Known
+0,43,F,2813,NULL,NULL
+0,52,M,2814,NULL,NULL
+0,35,M,2815,NULL,Prefer not to say
+0,42,F,2816,NULL,NULL
+1,38,F,2817,NULL,Heterosexual  / Straight
+0,27,F,2818,NULL,NULL
+0,43,M,2819,NULL,NULL
+0,38,M,2820,2,Prefer not to say
+0,58,F,2821,2,Heterosexual  / Straight
+0,67,M,2822,NULL,NULL
+0,53,M,2823,NULL,Not Known / Not recorded
+0,50,F,2824,NULL,NULL
+0,71,F,2825,2,Not Known / Not recorded
+0,68,F,2826,2,Heterosexual  / Straight
+1,84,M,2827,NULL,Not Known
+0,46,M,2828,NULL,NULL
+0,28,F,2829,NULL,Not Known / Not recorded
+0,48,F,2830,NULL,NULL
+0,56,F,2831,NULL,NULL
+0,28,M,2832,NULL,NULL
+0,29,M,2833,NULL,NULL
+0,43,M,2834,1,Heterosexual  / Straight
+0,52,F,2835,NULL,NULL
+0,25,M,2836,NULL,NULL
+0,75,F,2837,NULL,NULL
+0,36,M,2838,NULL,NULL
+0,54,F,2839,NULL,NULL
+0,36,M,2840,NULL,NULL
+0,26,F,2841,NULL,NULL
+0,53,F,2842,NULL,NULL
+0,30,M,2843,NULL,NULL
+0,36,M,2844,NULL,NULL
+0,30,M,2845,NULL,NULL
+0,54,F,2846,NULL,Not Known / Not recorded
+0,28,M,2847,NULL,Heterosexual  / Straight
+0,56,F,2848,NULL,Not Known
+0,68,M,2849,NULL,NULL
+0,34,F,2850,2,Heterosexual  / Straight
+0,46,F,2851,NULL,NULL
+0,40,M,2852,NULL,NULL
+0,56,M,2853,NULL,NULL
+0,39,M,2854,NULL,Not Known / Not recorded
+0,45,M,2855,2,Heterosexual  / Straight
+0,76,F,2856,2,Not Known
+0,31,M,2857,2,Not Known / Not recorded
+0,34,M,2858,NULL,NULL
+0,57,M,2859,NULL,NULL
+0,51,M,2860,NULL,NULL
+0,71,M,2861,NULL,NULL
+0,36,F,2862,NULL,Heterosexual  / Straight
+0,44,F,2863,2,Heterosexual  / Straight
+0,82,F,2864,2,Heterosexual  / Straight
+0,32,M,2865,2,Heterosexual  / Straight
+0,85,F,2866,NULL,NULL
+0,45,M,2867,2,Not Known / Not recorded
+0,29,M,2868,2,Heterosexual  / Straight
+0,35,F,2869,NULL,Heterosexual  / Straight
+0,78,M,2870,NULL,NULL
+0,40,F,2871,NULL,NULL
+0,20,F,2872,NULL,NULL
+0,50,F,2873,NULL,NULL
+0,42,M,2874,NULL,NULL
+0,29,F,2875,NULL,Not Known / Not recorded
+0,27,F,2876,NULL,NULL
+0,50,M,2877,NULL,NULL
+0,43,M,2878,2,Heterosexual  / Straight
+0,39,F,2879,NULL,NULL
+0,30,M,2880,NULL,NULL
+0,78,M,2881,NULL,NULL
+0,49,M,2882,NULL,Not Known / Not recorded
+0,79,F,2883,NULL,NULL
+0,77,M,2884,NULL,Heterosexual  / Straight
+0,55,F,2885,NULL,Other
+0,31,M,2886,NULL,NULL
+0,44,M,2887,NULL,NULL
+1,76,M,2888,NULL,NULL
+0,48,M,2889,NULL,NULL
+0,26,M,2890,NULL,NULL
+0,37,M,2891,NULL,NULL
+0,43,M,2892,NULL,Not Known / Not recorded
+0,81,F,2893,2,Heterosexual  / Straight
+0,71,M,2894,NULL,NULL
+0,28,M,2895,2,Prefer not to say
+0,43,F,2896,NULL,NULL
+0,42,M,2897,NULL,Not Known
+0,82,M,2898,NULL,Heterosexual  / Straight
+0,76,M,2899,2,Heterosexual  / Straight
+0,36,F,2900,NULL,NULL
+0,20,F,2901,NULL,NULL
+0,28,F,2902,NULL,Not Known / Not recorded
+0,42,M,2903,NULL,NULL
+0,48,F,2904,2,Heterosexual  / Straight
+0,56,F,2905,NULL,NULL
+0,41,M,2906,NULL,NULL
+0,24,F,2907,NULL,NULL
+0,27,M,2908,NULL,Not Known / Not recorded
+0,49,M,2909,NULL,NULL
+0,61,F,2910,NULL,NULL
+0,42,F,2911,NULL,NULL
+0,38,F,2912,2,Heterosexual  / Straight
+0,59,M,2913,NULL,Not Known / Not recorded
+0,30,M,2914,2,Heterosexual  / Straight
+0,26,F,2915,NULL,NULL
+0,34,F,2916,NULL,NULL
+0,37,M,2917,NULL,NULL
+0,49,M,2918,2,Heterosexual  / Straight
+0,24,F,2919,NULL,NULL
+0,60,F,2920,NULL,Not Known / Not recorded
+0,41,F,2921,NULL,Heterosexual  / Straight
+0,59,M,2922,NULL,NULL
+0,28,M,2923,NULL,NULL
+0,38,F,2924,NULL,Not Known / Not recorded
+0,28,M,2925,NULL,NULL
+0,33,M,2926,2,Heterosexual  / Straight
+0,20,F,2927,NULL,Heterosexual  / Straight
+0,80,F,2928,NULL,Heterosexual  / Straight
+0,86,M,2929,NULL,NULL
+0,29,M,2930,NULL,NULL
+0,66,F,2931,NULL,Heterosexual  / Straight
+0,85,M,2932,NULL,Heterosexual  / Straight
+0,32,M,2933,NULL,NULL
+0,42,F,2934,NULL,NULL
+0,47,M,2935,NULL,Not Known
+0,28,M,2936,2,Heterosexual  / Straight
+0,60,M,2937,NULL,NULL
+0,30,M,2938,2,Not Known
+0,66,F,2939,2,Heterosexual  / Straight
+0,36,M,2940,NULL,NULL
+0,27,M,2941,NULL,NULL
+0,37,M,2942,NULL,Not Known
+0,67,M,2943,2,Not Known / Not recorded
+0,46,M,2944,NULL,NULL
+0,53,M,2945,NULL,Not Known
+0,63,M,2946,NULL,NULL
+0,24,F,2947,NULL,NULL
+0,44,M,2948,NULL,NULL
+0,38,F,2949,NULL,Not Known / Not recorded
+0,39,F,2950,NULL,NULL
+0,76,M,2951,NULL,Heterosexual  / Straight
+0,48,M,2952,NULL,NULL
+0,26,F,2953,NULL,NULL
+0,60,M,2954,2,Not Known / Not recorded
+0,24,F,2955,NULL,NULL
+0,35,M,2956,NULL,Heterosexual  / Straight
+0,39,F,2957,NULL,NULL
+0,34,F,2958,NULL,NULL
+0,51,M,2959,NULL,NULL
+0,52,F,2960,NULL,Not Known / Not recorded
+0,53,F,2961,2,Heterosexual  / Straight
+0,48,M,2962,2,Heterosexual  / Straight
+0,20,M,2963,NULL,NULL
+0,25,M,2964,2,Not Known / Not recorded
+0,50,F,2965,NULL,Heterosexual  / Straight
+0,63,F,2966,NULL,Heterosexual  / Straight
+0,64,M,2967,NULL,Heterosexual  / Straight
+0,42,F,2968,NULL,NULL
+0,52,M,2969,NULL,NULL
+0,38,F,2970,NULL,NULL
+0,39,F,2971,2,Heterosexual  / Straight
+0,30,M,2972,NULL,NULL
+0,40,M,2973,NULL,NULL
+0,53,M,2974,NULL,NULL
+0,51,M,2975,NULL,NULL
+0,29,M,2976,NULL,Not Known
+0,38,M,2977,NULL,NULL
+0,22,F,2978,2,NULL
+0,63,M,2979,NULL,NULL
+0,29,M,2980,2,Heterosexual  / Straight
+0,49,F,2981,NULL,NULL
+0,23,F,2982,NULL,Heterosexual  / Straight
+0,32,M,2983,NULL,NULL
+0,40,M,2984,NULL,NULL
+0,82,M,2985,NULL,Not Known / Not recorded
+0,31,F,2986,NULL,NULL
+0,21,F,2987,NULL,NULL
+0,36,F,2988,NULL,NULL
+0,47,M,2989,2,Heterosexual  / Straight
+0,37,M,2990,NULL,NULL
+0,40,M,2991,NULL,NULL
+0,31,F,2992,NULL,NULL
+0,36,F,2993,NULL,Bisexual
+0,32,M,2994,NULL,NULL
+0,49,M,2995,NULL,NULL
+0,35,F,2996,NULL,NULL
+0,28,M,2997,2,NULL
+0,35,M,2998,NULL,Not Known / Not recorded
+0,27,F,2999,NULL,Heterosexual  / Straight
+0,46,F,3000,NULL,NULL
+0,80,F,3001,2,Not Known / Not recorded
+0,32,M,3002,NULL,Not Known
+0,55,M,3003,NULL,NULL
+0,36,F,3004,NULL,Not Known / Not recorded
+0,51,M,3005,NULL,NULL
+0,51,M,3006,2,Heterosexual  / Straight
+0,41,F,3007,NULL,Heterosexual  / Straight
+0,68,F,3008,NULL,NULL
+0,39,M,3009,NULL,NULL
+0,68,F,3010,2,Heterosexual  / Straight
+0,39,M,3011,NULL,NULL
+0,59,M,3012,2,Heterosexual  / Straight
+0,37,M,3013,NULL,NULL
+0,63,M,3014,NULL,NULL
+0,33,M,3015,2,Heterosexual  / Straight
+0,33,F,3016,NULL,NULL
+0,65,F,3017,NULL,NULL
+0,35,F,3018,NULL,Not Known / Not recorded
+1,47,F,3019,NULL,NULL
+0,76,M,3020,NULL,NULL
+0,36,M,3021,NULL,NULL
+1,92,F,3022,2,Heterosexual  / Straight
+1,32,M,3023,NULL,Heterosexual  / Straight
+0,30,M,3024,2,Heterosexual  / Straight
+0,53,F,3025,NULL,NULL
+0,43,F,3026,NULL,NULL
+0,59,F,3027,NULL,NULL
+0,76,M,3028,NULL,NULL
+0,82,F,3029,NULL,NULL
+0,41,M,3030,NULL,NULL
+0,34,M,3031,NULL,NULL
+0,30,F,3032,NULL,NULL
+0,40,M,3033,2,Heterosexual  / Straight
+0,21,F,3034,2,Heterosexual  / Straight
+0,40,M,3035,NULL,Not Known / Not recorded
+0,79,M,3036,2,Heterosexual  / Straight
+0,45,M,3037,NULL,NULL
+0,67,F,3038,2,Heterosexual  / Straight
+0,54,M,3039,NULL,NULL
+0,49,M,3040,2,Not Known / Not recorded
+1,86,M,3041,2,Not Known
+0,40,F,3042,NULL,NULL
+0,70,F,3043,NULL,Heterosexual  / Straight
+0,51,F,3044,NULL,Heterosexual  / Straight
+0,53,F,3045,NULL,NULL
+0,39,F,3046,NULL,Not Known / Not recorded
+0,71,M,3047,2,Heterosexual  / Straight
+0,37,M,3048,NULL,NULL
+0,40,F,3049,NULL,Gay / Lesbian
+0,36,M,3050,NULL,NULL
+0,21,F,3051,2,Heterosexual  / Straight
+0,34,M,3052,2,Not Known / Not recorded
+0,28,M,3053,NULL,NULL
+0,22,F,3054,NULL,Not Known
+0,37,M,3055,2,Heterosexual  / Straight
+0,73,F,3056,NULL,NULL
+0,43,F,3057,NULL,NULL
+0,50,F,3058,NULL,NULL
+1,77,M,3059,NULL,NULL
+0,31,F,3060,NULL,NULL
+0,49,F,3061,NULL,Heterosexual  / Straight
+0,34,M,3062,NULL,NULL
+0,51,F,3063,NULL,NULL
+0,39,F,3064,NULL,Heterosexual  / Straight
+0,59,M,3065,NULL,NULL
+0,65,M,3066,NULL,Heterosexual  / Straight
+0,34,F,3067,NULL,NULL
+0,47,M,3068,NULL,Not Known / Not recorded
+0,27,M,3069,NULL,NULL
+0,50,F,3070,NULL,NULL
+0,55,F,3071,NULL,Not Known / Not recorded
+0,28,F,3072,NULL,NULL
+0,51,F,3073,NULL,Not Known / Not recorded
+0,63,F,3074,NULL,NULL
+0,55,M,3075,2,Heterosexual  / Straight
+0,28,F,3076,NULL,Heterosexual  / Straight
+0,61,M,3077,NULL,NULL
+0,42,M,3078,NULL,NULL
+0,58,M,3079,NULL,NULL
+0,35,M,3080,NULL,NULL
+0,29,M,3081,NULL,NULL
+0,26,F,3082,NULL,NULL
+0,55,F,3083,NULL,Not Known
+0,24,M,3084,NULL,NULL
+0,43,M,3085,NULL,NULL
+0,32,M,3086,NULL,NULL
+0,46,M,3087,NULL,NULL
+0,34,M,3088,NULL,NULL
+0,62,M,3089,NULL,NULL
+0,21,F,3090,NULL,NULL
+0,84,M,3091,NULL,NULL
+0,26,M,3092,2,Not Known / Not recorded
+0,26,F,3093,NULL,Not Known / Not recorded
+0,65,M,3094,NULL,Not Known
+0,45,M,3095,NULL,NULL
+0,22,M,3096,NULL,Heterosexual  / Straight
+0,67,F,3097,NULL,NULL
+0,57,F,3098,NULL,Not Known / Not recorded
+0,35,F,3099,2,Heterosexual  / Straight
+0,39,M,3100,NULL,Not Known / Not recorded
+0,41,F,3101,NULL,NULL
+0,79,F,3102,NULL,Not Known / Not recorded
+0,35,M,3103,NULL,NULL
+0,66,M,3104,NULL,Heterosexual  / Straight
+0,28,F,3105,2,Not Known
+0,45,M,3106,NULL,Not Known / Not recorded
+0,21,M,3107,NULL,NULL
+0,58,F,3108,NULL,Heterosexual  / Straight
+0,76,M,3109,NULL,NULL
+0,61,M,3110,NULL,Not Known / Not recorded
+0,31,M,3111,NULL,NULL
+0,44,M,3112,2,Not Known
+0,33,M,3113,NULL,NULL
+0,26,M,3114,NULL,NULL
+0,21,F,3115,2,Heterosexual  / Straight
+0,36,M,3116,NULL,NULL
+0,36,M,3117,NULL,NULL
+0,41,F,3118,NULL,Heterosexual  / Straight
+0,49,M,3119,NULL,NULL
+0,42,M,3120,2,Heterosexual  / Straight
+1,72,F,3121,NULL,NULL
+0,75,F,3122,NULL,NULL
+0,49,F,3123,NULL,Not Known
+0,60,M,3124,NULL,Heterosexual  / Straight
+0,34,M,3125,NULL,NULL
+0,56,M,3126,NULL,Not Known
+1,86,F,3127,2,Heterosexual  / Straight
+0,29,M,3128,NULL,NULL
+0,60,M,3129,NULL,NULL
+0,68,F,3130,NULL,NULL
+0,26,M,3131,NULL,NULL
+0,52,F,3132,NULL,NULL
+0,31,F,3133,2,Bisexual
+0,46,F,3134,NULL,Heterosexual  / Straight
+0,51,F,3135,NULL,NULL
+0,33,F,3136,NULL,NULL
+0,55,F,3137,NULL,NULL
+0,59,M,3138,NULL,NULL
+0,39,F,3139,NULL,Heterosexual  / Straight
+1,35,F,3140,NULL,NULL
+0,37,F,3141,NULL,NULL
+1,63,F,3142,NULL,Heterosexual  / Straight
+0,54,F,3143,NULL,NULL
+0,49,F,3144,NULL,NULL
+0,52,F,3145,NULL,NULL
+0,53,F,3146,2,Heterosexual  / Straight
+0,34,M,3147,2,Prefer not to say
+0,24,F,3148,NULL,NULL
+0,36,M,3149,NULL,NULL
+0,63,M,3150,NULL,Not Known / Not recorded
+0,28,M,3151,NULL,NULL
+0,77,F,3152,NULL,NULL
+0,23,F,3153,NULL,NULL
+0,26,F,3154,NULL,NULL
+0,29,F,3155,NULL,NULL
+0,42,M,3156,NULL,NULL
+0,37,F,3157,NULL,NULL
+0,33,F,3158,2,Heterosexual  / Straight
+0,58,M,3159,NULL,NULL
+0,83,F,3160,NULL,Heterosexual  / Straight
+0,52,M,3161,NULL,NULL
+0,37,M,3162,2,NULL
+0,59,M,3163,NULL,NULL
+0,40,F,3164,NULL,NULL
+0,29,M,3165,NULL,NULL
+0,54,F,3166,NULL,NULL
+0,32,M,3167,NULL,NULL
+0,39,M,3168,NULL,NULL
+0,43,M,3169,NULL,NULL
+0,49,M,3170,NULL,NULL
+0,33,M,3171,NULL,NULL
+0,36,F,3172,NULL,NULL
+0,59,F,3173,NULL,NULL
+0,27,F,3174,NULL,NULL
+0,28,M,3175,NULL,NULL
+0,31,M,3176,2,Heterosexual  / Straight
+0,38,M,3177,NULL,NULL
+0,44,F,3178,NULL,NULL
+0,26,M,3179,NULL,NULL
+0,35,F,3180,2,Not Known
+0,39,M,3181,2,Heterosexual  / Straight
+0,25,M,3182,NULL,NULL
+0,30,M,3183,NULL,NULL
+0,47,F,3184,NULL,NULL
+0,38,M,3185,NULL,NULL
+0,52,M,3186,2,Heterosexual  / Straight
+0,36,F,3187,NULL,Heterosexual  / Straight
+0,27,F,3188,NULL,NULL
+0,57,M,3189,NULL,Not Known / Not recorded
+0,74,M,3190,NULL,Not Known / Not recorded
+0,56,M,3191,2,Not Known / Not recorded
+0,45,F,3192,NULL,NULL
+0,42,F,3193,NULL,Not Known / Not recorded
+1,84,F,3194,2,Heterosexual  / Straight
+0,31,M,3195,NULL,NULL
+0,37,F,3196,NULL,NULL
+0,32,M,3197,NULL,Not Known
+0,42,F,3198,NULL,NULL
+0,47,F,3199,2,Heterosexual  / Straight
+0,79,F,3200,2,Heterosexual  / Straight
+0,26,F,3201,2,Bisexual
+0,82,M,3202,NULL,NULL
+0,79,M,3203,NULL,Heterosexual  / Straight
+0,31,F,3204,2,Heterosexual  / Straight
+0,57,M,3205,NULL,NULL
+0,31,M,3206,NULL,Heterosexual  / Straight
+0,48,F,3207,NULL,Not Known
+0,44,M,3208,NULL,NULL
+0,94,F,3209,2,Heterosexual  / Straight
+1,52,M,3210,NULL,NULL
+0,37,M,3211,NULL,NULL
+0,35,M,3212,NULL,NULL
+0,70,M,3213,NULL,Not Known / Not recorded
+0,35,M,3214,NULL,NULL
+0,31,F,3215,NULL,NULL
+0,29,M,3216,NULL,NULL
+0,33,M,3217,NULL,NULL
+0,64,F,3218,NULL,Heterosexual  / Straight
+0,54,M,3219,NULL,NULL
+0,37,F,3220,NULL,NULL
+0,45,M,3221,NULL,NULL
+0,31,M,3222,NULL,NULL
+0,75,M,3223,NULL,NULL
+0,40,M,3224,2,Heterosexual  / Straight
+0,30,M,3225,2,Heterosexual  / Straight
+0,82,F,3226,NULL,NULL
+0,37,F,3227,NULL,NULL
+0,31,F,3228,NULL,Heterosexual  / Straight
+0,37,F,3229,NULL,NULL
+0,28,M,3230,NULL,Heterosexual  / Straight
+0,37,M,3231,2,NULL
+0,60,M,3232,NULL,NULL
+0,32,M,3233,NULL,NULL
+0,56,F,3234,NULL,NULL
+0,41,F,3235,NULL,Heterosexual  / Straight
+0,33,M,3236,NULL,Heterosexual  / Straight
+0,75,F,3237,2,Heterosexual  / Straight
+0,37,F,3238,2,Not Known / Not recorded
+0,27,F,3239,NULL,NULL
+0,27,F,3240,NULL,NULL
+0,71,F,3241,NULL,NULL
+0,48,F,3242,NULL,NULL
+0,54,M,3243,NULL,Not Known
+0,54,M,3244,NULL,NULL
+0,32,F,3245,NULL,NULL
+0,75,F,3246,NULL,Not Known / Not recorded
+0,44,F,3247,NULL,NULL
+0,36,F,3248,NULL,Not Known
+0,60,F,3249,NULL,NULL
+0,53,M,3250,NULL,Not Known
+0,22,M,3251,NULL,NULL
+0,45,F,3252,NULL,NULL
+0,29,M,3253,NULL,NULL
+0,58,M,3254,2,Heterosexual  / Straight
+0,64,F,3255,NULL,Heterosexual  / Straight
+0,54,M,3256,2,Heterosexual  / Straight
+0,56,F,3257,NULL,NULL
+0,41,F,3258,2,Heterosexual  / Straight
+0,46,M,3259,2,Heterosexual  / Straight
+0,38,M,3260,NULL,Heterosexual  / Straight
+0,34,M,3261,NULL,Heterosexual  / Straight
+0,28,M,3262,NULL,NULL
+0,63,M,3263,2,Heterosexual  / Straight
+1,65,M,3264,NULL,Heterosexual  / Straight
+0,56,M,3265,2,Heterosexual  / Straight
+0,58,F,3266,2,Heterosexual  / Straight
+0,30,M,3267,2,Bisexual
+0,57,M,3268,2,Heterosexual  / Straight
+0,31,M,3269,NULL,Heterosexual  / Straight
+0,62,M,3270,NULL,Heterosexual  / Straight
+0,53,F,3271,2,Heterosexual  / Straight
+1,64,M,3272,NULL,NULL
+0,49,F,3273,2,Heterosexual  / Straight
+0,54,M,3274,NULL,Heterosexual  / Straight
+0,65,F,3275,2,Heterosexual  / Straight
+0,59,F,3276,2,Heterosexual  / Straight
+0,41,M,3277,2,Heterosexual  / Straight
+0,31,M,3278,2,Heterosexual  / Straight
+0,49,M,3279,NULL,Heterosexual  / Straight
+0,49,F,3280,2,Heterosexual  / Straight
+0,49,M,3281,NULL,Not Known
+0,31,M,3282,2,Heterosexual  / Straight
+0,50,F,3283,NULL,NULL
+0,41,M,3284,NULL,NULL
+0,37,M,3285,2,Prefer not to say
+0,40,F,3286,2,Heterosexual  / Straight
+0,29,M,3287,2,Heterosexual  / Straight
+0,28,M,3288,NULL,Heterosexual  / Straight
+0,23,M,3289,NULL,NULL
+0,33,M,3290,2,Heterosexual  / Straight
+0,30,M,3291,NULL,Heterosexual  / Straight
+0,67,M,3292,NULL,NULL
+0,22,M,3293,2,NULL
+0,28,M,3294,2,Gay / Lesbian
+0,28,M,3295,2,Prefer not to say
+0,59,M,3296,NULL,Heterosexual  / Straight
+0,37,M,3297,NULL,Not Known / Not recorded
+0,35,M,3298,NULL,Heterosexual  / Straight
+1,36,M,3299,NULL,Heterosexual  / Straight
+0,42,F,3300,2,Heterosexual  / Straight
+0,49,M,3301,2,Heterosexual  / Straight
+0,57,M,3302,NULL,Heterosexual  / Straight
+0,42,M,3303,NULL,NULL
+0,43,M,3304,2,Heterosexual  / Straight
+0,27,M,3305,2,Heterosexual  / Straight
+0,59,M,3306,NULL,Heterosexual  / Straight
+0,47,M,3307,2,Heterosexual  / Straight
+0,37,M,3308,2,Heterosexual  / Straight
+0,65,F,3309,2,Heterosexual  / Straight
+0,38,M,3310,NULL,NULL
+0,56,M,3311,2,Heterosexual  / Straight
+0,59,M,3312,2,Heterosexual  / Straight
+0,46,M,3313,NULL,Heterosexual  / Straight
+0,37,F,3314,2,Heterosexual  / Straight
+0,51,M,3315,2,Heterosexual  / Straight
+0,40,F,3316,NULL,Not Known / Not recorded
+0,41,M,3317,NULL,NULL
+0,60,M,3318,2,Heterosexual  / Straight
+0,56,F,3319,NULL,Heterosexual  / Straight
+0,41,F,3320,2,Heterosexual  / Straight
+0,40,F,3321,2,Heterosexual  / Straight
+0,28,M,3322,NULL,Heterosexual  / Straight
+0,35,M,3323,2,Heterosexual  / Straight
+0,52,F,3324,NULL,Not Known
+0,64,M,3325,NULL,NULL
+0,39,M,3326,2,Heterosexual  / Straight
+0,61,M,3327,2,Heterosexual  / Straight
+0,20,M,3328,NULL,NULL
+0,36,M,3329,NULL,Heterosexual  / Straight
+0,37,M,3330,NULL,Heterosexual  / Straight
+0,35,M,3331,2,Heterosexual  / Straight
+0,50,M,3332,1,Heterosexual  / Straight
+0,46,F,3333,NULL,NULL
+0,30,M,3334,2,Heterosexual  / Straight
+0,30,M,3335,2,Heterosexual  / Straight
+0,45,M,3336,NULL,Heterosexual  / Straight
+0,58,M,3337,2,Heterosexual  / Straight
+0,50,M,3338,NULL,NULL
+0,59,M,3339,NULL,NULL
+1,71,F,3340,NULL,NULL
+0,34,M,3341,2,Heterosexual  / Straight
+0,36,M,3342,2,Heterosexual  / Straight
+0,34,M,3343,NULL,Not Known
+0,46,M,3344,2,Heterosexual  / Straight
+0,49,M,3345,2,Heterosexual  / Straight
+0,55,F,3346,2,Heterosexual  / Straight
+0,50,M,3347,NULL,NULL
+0,56,M,3348,2,Heterosexual  / Straight
+0,35,M,3349,2,Heterosexual  / Straight
+0,45,M,3350,NULL,Heterosexual  / Straight
+0,53,M,3351,NULL,Heterosexual  / Straight
+0,27,F,3352,2,Heterosexual  / Straight
+0,35,M,3353,NULL,Heterosexual  / Straight
+0,46,F,3354,2,Heterosexual  / Straight
+0,61,F,3355,NULL,NULL
+0,36,M,3356,NULL,NULL
+0,51,M,3357,2,Heterosexual  / Straight
+0,41,F,3358,2,Heterosexual  / Straight
+0,29,M,3359,2,Heterosexual  / Straight
+0,30,F,3360,2,Not Known / Not recorded
+0,56,M,3361,NULL,NULL
+0,39,F,3362,2,Not Known
+0,25,M,3363,NULL,NULL
+0,27,M,3364,2,Heterosexual  / Straight
+0,65,M,3365,NULL,NULL
+1,48,M,3366,NULL,Not Known / Not recorded
+0,41,M,3367,NULL,Heterosexual  / Straight
+0,36,M,3368,NULL,Heterosexual  / Straight
+0,58,M,3369,2,Not Known / Not recorded
+0,63,M,3370,NULL,NULL
+0,59,F,3371,2,Heterosexual  / Straight
+0,39,M,3372,NULL,Heterosexual  / Straight
+0,47,F,3373,NULL,NULL
+0,54,M,3374,NULL,NULL
+0,54,M,3375,NULL,Heterosexual  / Straight
+0,56,M,3376,NULL,NULL
+0,62,M,3377,2,Heterosexual  / Straight
+0,43,F,3378,2,Heterosexual  / Straight
+1,45,M,3379,NULL,NULL
+0,56,M,3380,2,Heterosexual  / Straight
+0,34,M,3381,2,Heterosexual  / Straight
+0,56,F,3382,2,Heterosexual  / Straight
+0,51,M,3383,2,Heterosexual  / Straight
+0,58,M,3384,2,Heterosexual  / Straight
+0,59,M,3385,NULL,NULL
+0,46,F,3386,2,Prefer not to say
+0,58,M,3387,NULL,Not Known
+0,53,M,3388,2,Heterosexual  / Straight
+0,38,M,3389,NULL,NULL
+0,42,M,3390,2,Heterosexual  / Straight
+0,34,M,3391,NULL,Not Known
+0,50,M,3392,NULL,NULL
+0,30,M,3393,2,Heterosexual  / Straight
+0,52,F,3394,2,Heterosexual  / Straight
+0,26,M,3395,NULL,NULL
+0,28,M,3396,2,Heterosexual  / Straight
+0,42,M,3397,2,Prefer not to say
+0,34,M,3398,2,Heterosexual  / Straight
+0,48,M,3399,NULL,NULL
+0,47,F,3400,2,Heterosexual  / Straight

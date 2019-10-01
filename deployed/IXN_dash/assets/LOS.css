@@ -1,0 +1,85 @@
+body {
+    font-family: sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: Arial;
+    color: orange;
+    text-align:center;
+
+}
+
+#tabs {
+    color:orange;
+    background: grey;
+    border-block-color: black;
+  
+}
+
+#upload-file{
+    border-style: dashed;
+    border-width:1px;
+    border-radius: 5px;
+    text-align: center;
+    padding:5px;
+    margin: 5px;
+    width: 20%;
+    display: inline-block;
+    
+}
+
+#file-uploaded{
+    display: inline-block;
+    line-height: 5%;
+    vertical-align: middle;
+    margin:5px;
+    padding:5px;
+    width:20%;
+}
+/* 
+'width': '100%';
+    'height': '60px';
+    'lineHeight': '60px',
+    'borderWidth': '1px',
+    'borderStyle': 'dashed',
+    'borderRadius': '5px',
+    'textAlign': 'center',
+    'margin': '10px' */
+
+#attribute_selected,#attribute_selected_ward,#ward_selected, #ward_selected_for_activities,#graph_selected{
+    background-color:whitesmoke;
+    margin:5px;
+    padding:5px;
+    font-size: 80%;
+    
+    background-blend-mode: lighten;
+}
+
+#table_all{
+    font-size:sans-serif;
+    background-color: azure;
+}
+
+
+
+/* .table-style{
+    float:left;
+    width: 33.33%;
+    text-align: center;
+    color: grey;
+    vertical-align: top;
+} */
+
+.table-style{
+    display: inline-block;
+    width: 33.33%;
+    text-align: center;
+    color: grey;
+    vertical-align: top;
+}
+
+#table-style-outer{
+    border-bottom: solid;
+    border-color:whitesmoke;
+    margin:25px;
+    font:bold;
+}

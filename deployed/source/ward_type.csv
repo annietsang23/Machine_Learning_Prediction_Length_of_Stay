@@ -1,0 +1,86 @@
+﻿,Inpatient ward types,,,,,,
+,Ward Code,Ward Name,Ward Location,Ward Service Type,Intended Age Group,In Use,Ward Sex
+,I_RXT05_ADRIATLS,Ardenleigh - Adriatic,Ardenleigh,CAMHS Low Secure,Adolescent,Yes,Female
+,I_RXT05_ADRIAT,Ardenleigh - Adriatic - FCAMHS,Ardenleigh,Forensic CAMHS,Child/Adolescent,No,Any
+,I_RXT_ARARM,Ardenleigh - Armstrong,Ardenleigh,Forensic CAMHS,Child/Adolescent,No,Any
+,I_RXT05_ATLANT,Ardenleigh - Atlantic,Ardenleigh,Forensic CAMHS,Adolescent,Yes,Any
+,I_RXT05_ARBAK,Ardenleigh - Baker,Ardenleigh,Medium Secure,Adult,No,Female
+,I_RXT05_CITRINE,Ardenleigh - Citrine,Ardenleigh,Medium Secure,Adult,Yes,Female
+,I_RXT05_CORAL,Ardenleigh - Coral,Ardenleigh,Medium Secure,Adult,Yes,Female
+,I_RXT_ARGAS,Ardenleigh - Gaskell,Ardenleigh,Medium Secure,Adult,No,Female
+,I_RXT_ARJOH,Ardenleigh - Johnson,Ardenleigh,Forensic CAMHS,Child/Adolescent,No,Any
+,I_RXT_LARIMACUTE,Ardenleigh - Larimar,Ardenleigh,Adult Acute,Adult,Yes,Female
+,I_RXT05_LARIMAR,Ardenleigh - Larimar - CAMHS,Ardenleigh,CAMHS General,Child/Adolescent,No,Female
+,I_RXT05_PACIF,Ardenleigh - Pacific,Ardenleigh,Forensic CAMHS,Adolescent,Yes,Any
+,I_RXT05_ARDTOUR,Ardenleigh - Tourmaline,Ardenleigh,Medium Secure,Adult,Yes,Female
+,I_RXT06_ASHCC1,Ashcroft - Complex Care,Ashcroft Unit,Older Adult Complex Care,Older Adult,Yes,Any
+,I_RXTD3_CHAMO,Barberry - Chamomile,The Barberry,Perinatal,Adult,Yes,Any
+,I_RXTD3_CILAN,Barberry - Cilantro,The Barberry,Eating Disorders,Adult,Yes,Any
+,I_RXTD3_JAS,Barberry - Jasmine,The Barberry,Deaf,Adult,Yes,Any
+,I_RXTD3_VITI,Barberry - Vitivier,The Barberry,Neuropsychiatry,Any age,Yes,Any
+,I_RXT_CHAM,Chamberlain QEPH (not in use),Queen Eliz. Psych H.,Adult Acute,Adult,No,Any
+,I_RXT96_SBWS,Dan Mooney House,Dan Mooney House,Rehabilitation,Adult,Yes,Any
+,I_RXT15_SBDB,David Bromley House,David Bromley House,Rehabilitation,Adult,Yes,Any
+,I_RXT99_EDEF,Eden - Acute,Eden Unit,Adult Acute,Adult,Yes,Male
+,I_RXT28_EFPICU,Eden - Female PICU,Highcroft Site,Adult PICU,Adult,Yes,Female
+,I_RXT_ELI,Eden - Unit Male (not in use),Highcroft Site,Adult Acute,Adult,No,Male
+,I_RXT18_ENDC,Endeavour Court,Endeavour Court,Rehabilitation,Adult,Yes,Female
+,I_RXT_ENDHACUTE,Endeavour House,Endeavour House,Adult Acute,Adult,Yes,Male
+,I_RXT19_ENDH,Endeavour House Community Rehab,Endeavour House,Rehabilitation,Adult,No,Male
+,I_RXT22_FORH,Forward House,Forward House,Rehabilitation,Adult,Yes,Any
+,I_RXT24_GROVE,Grove Avenue,Grove Avenue,Rehabilitation,Adult,Yes,Any
+,I_RXT27_SBHH,Hertford House,Hertford House,Rehabilitation,Adult,Yes,Male
+,I_RXT18_ELIG,Highcroft - George,Highcroft Site,Adult Acute,Adult,Yes,Male
+,I_RXT29_HILLIS,Hillis Lodge,Hillis Lodge,Low Secure,Adult,Yes,Male
+,I_RXT_HOLL1,Hollyhill Complex Care,Hollyhill,Older Adult Complex Care,Older Adult,No,Any
+,I_RXTD5_BERG,Juniper - Bergamot,Juniper Centre,Older Adult Acute,Older Adult,Yes,Female
+,I_RXTD5_ROSE,Juniper - Rosemary,Juniper Centre,Older Adult Acute,Older Adult,Yes,Female
+,I_RXTD5_SAGE,Juniper - Sage,Juniper Centre,Older Adult Acute,Older Adult,Yes,Male
+,I_RXT37_AVON,Little Bromwich,Little Bromwich,Older Adult Acute,Older Adult,No,Any
+,I_RXT47_MCT,Mary Seacole House - Meadowcroft,Mary Seacole House,Adult PICU,Adult,Yes,Male
+,I_RXT47_MS1,Mary Seacole House - Ward 1,Mary Seacole House,Adult Acute,Adult,Yes,Male
+,I_RXT47_MS2,Mary Seacole House - Ward 2,Mary Seacole House,Adult Acute,Adult,Yes,Female
+,I_RXT51_NEWH,Newbridge House,Newbridge House,Adult Acute,Adult,Yes,Female
+,I_RXTD4_CAFF,Oleaster - Caffra,Oleaster,Adult PICU,Adult,Yes,Male
+,I_RXTD4_JAPADULT,Oleaster - Japonica,Oleaster,Adult Acute,Adult,Yes,Female
+,I_RXT_JAP,Oleaster - Japonica - Adult,Oleaster,Adult Acute,Adult,No,Female
+,I_RXTD4_JAPON,Oleaster - Japonica - CAMHS,Oleaster,CAMHS General,Child/Adolescent,No,Female
+,I_RXTD4_MAGNO,Oleaster - Magnolia,Oleaster,Adult Acute,Adult,Yes,Male
+,I_RXTD4_MELISSA,Oleaster - Melissa,Oleaster,Adult Acute,Adult,Yes,Female
+,I_RXTD4_TAZE,Oleaster - Tazetta,Oleaster,Adult Acute,Adult,Yes,Male
+,I_RXT_ASHCC,OP CC Ashcroft,Ashcroft Unit,Continuing Care - Older Adult,Older Adult,No,Any
+,I_RXT_HOLL,OP CC Hollyhill,Hollyhill,Continuing Care - Older Adult,Older Adult,No,Any
+,I_RXT_SBMLLS,OP CC Maple Leaf,Maple Leaf Drive,Continuing Care - Older Adult,Older Adult,No,Any
+,I_RXT_QP2,QEPH Ward 2,Queen Eliz. Psych H.,Older Adult Acute,Older Adult,No,Any
+,I_RXT_QP6,QEPH Ward 6,Queen Eliz. Psych H.,Older Adult Acute,Older Adult,No,Any
+,I_RXT_QP7,QEPH Ward 7,Queen Eliz. Psych H.,Older Adult Acute,Older Adult,No,Any
+,I_RXT64_RSAV,Reaside - Avon,Reaside Clinic,Medium Secure,Adult,Yes,Male
+,I_RXT64_RSBL,Reaside - Blythe,Reaside Clinic,Medium Secure,Adult,Yes,Male
+,I_RXT64_RSBOU,Reaside - Bournebrook,Reaside Clinic,Medium Secure,Adult,No,Male
+,I_RXT64_RSDO,Reaside - Dove,Reaside Clinic,Medium Secure,Adult,Yes,Male
+,I_RXT64_RSKE,Reaside - Kennet,Reaside Clinic,Medium Secure,Adult,Yes,Male
+,I_RXT64_RSSE,Reaside - Severn,Reaside Clinic,Medium Secure,Adult,Yes,Male
+,I_RXT64_RSSW,Reaside - Swift,Reaside Clinic,Medium Secure,Adult,Yes,Male
+,I_RXT64_RSTR,Reaside - Trent,Reaside Clinic,Medium Secure,Adult,Yes,Male
+,I_RXT_RSBO,Reaside Clinic - Bournbrook RSC,Reaside Clinic,Not In Use,Any age,No,Any
+,I_RXT_RSCO,Reaside Clinic - Cole  RSC (not in use),Reaside Clinic,Medium Secure,Adult,No,Male
+,I_RXT_RSDE,Reaside Clinic - Derwent RSC (not in use,Reaside Clinic,Medium Secure,Adult,No,Male
+,I_RXT65_RES,Reservoir Court,Reservoir Court,Older Adult Acute,Older Adult,Yes,Any
+,I_RXT05_RKGRD,Rookery Gardens,Ardenleigh,Rehabilitation,Adult,Yes,Any
+,I_RXT67_ROSS,Ross House,Ross House,Rehabilitation,Adult,No,Any
+,I_RXT_E1,Selly Oak Hospital Ward E1,Out of use,Older Adult Acute,Older Adult,No,Any
+,I_RXT_E2,Selly Oak Hospital Ward E2,Out of use,Older Adult Acute,Older Adult,No,Any
+,I_RXT76_SBBB,Solihull Hospital Bruce Burns,Solihull Hospital,Adult Acute,Adult,No,Any
+,I_RXT_SBICA,Solihull Hospital ICA,Solihull Hospital,Adult PICU,Adult,No,Any
+,I_RXT_SOL10A,Solihull Hospital Ward 10A,Solihull Hospital,Older Adult Acute,Older Adult,No,Any
+,I_RXT_SOL10B,Solihull Hospital Ward 10B,Solihull Hospital,Older Adult Acute,Older Adult,No,Any
+,I_RXT_SB21,Solihull Hospital Ward 21,Solihull Hospital,Adult Acute,Adult,No,Any
+,I_RXTD6_TAAC,Tamarind - Acacia,Tamarind Centre,Medium Secure,Adult,Yes,Male
+,I_RXTD6_TACE,Tamarind - Cedar,Tamarind Centre,Medium Secure,Adult,Yes,Male
+,I_RXTD6_TAHI,Tamarind - Hibiscus,Tamarind Centre,Medium Secure,Adult,Yes,Male
+,I_RXTD6_TALA,Tamarind - Laurel,Tamarind Centre,Medium Secure,Adult,Yes,Male
+,I_RXTD6_TALO,Tamarind - Lobelia,Tamarind Centre,Medium Secure,Adult,Yes,Male
+,I_RXTD6_TAMY,Tamarind - Myrtle,Tamarind Centre,Medium Secure,Adult,Yes,Male
+,I_RXTD6_TASY,Tamarind - Sycamore,Tamarind Centre,Medium Secure,Adult,Yes,Male
+,I_RXTD2_LAVEN,Zinnia - Lavender,The Zinnia Centre,Adult Acute,Adult,Yes,Female
+,I_RXTD2_SAFFRON,Zinnia - Saffron,The Zinnia Centre,Adult Acute,Adult,Yes,Male
